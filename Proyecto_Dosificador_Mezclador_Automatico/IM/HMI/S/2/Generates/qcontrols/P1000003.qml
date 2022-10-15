@@ -130,17 +130,17 @@ IGuiPage
 						qm_tableHeaderMarginTop: 1
 						qm_noOfColumns: 5
 						qm_tableHeaderHeight: 18
-						qm_leftImageID: 46
+						qm_leftImageID: 44
 						qm_leftTileTop: 10
 						qm_leftTileBottom: 10
 						qm_leftTileRight: 2
 						qm_leftTileLeft: 4
-						qm_middleImageID: 47
+						qm_middleImageID: 45
 						qm_middleTileTop: 10
 						qm_middleTileBottom: 10
 						qm_middleTileRight: 2
 						qm_middleTileLeft: 2
-						qm_rightImageID: 48
+						qm_rightImageID: 46
 						qm_rightTileTop: 10
 						qm_rightTileBottom: 10
 						qm_rightTileRight: 4
@@ -197,15 +197,41 @@ IGuiPage
 		]
 		IGuiGraphicButton
 		{
-			id: q486539298
-			objId: 486539298
+			id: q486539297
+			objId: 486539297
 			x: 68
 			y: 325
 			width: 56
 			height: 40
 			qm_BorderCornerRadius: 3
 			qm_BorderWidth: 1
-			qm_ImageSource: "image://QSmartImageProvider/49#2#4#128#0#0"
+			qm_ImageSource: "image://QSmartImageProvider/47#2#4#128#0#0"
+			qm_Border.top: 15
+			qm_Border.bottom: 15
+			qm_Border.right: 5
+			qm_Border.left: 5
+			qm_FillColor: "#ffefebef"
+			qm_FocusWidth: 2
+			qm_FocusColor: "#ffa5cfd6"
+			qm_ImageFillMode:6
+			qm_ImagePossitionX: 3
+			qm_ImagePossitionY: 2
+			qm_ImageWidth: 51
+			qm_ImageHeight: 36
+			qm_SourceSizeWidth: 51
+			qm_SourceSizeHeight: 36
+		}
+		IGuiGraphicButton
+		{
+			id: q486539298
+			objId: 486539298
+			x: 129
+			y: 325
+			width: 56
+			height: 40
+			qm_BorderCornerRadius: 3
+			qm_BorderWidth: 1
+			qm_ImageSource: "image://QSmartImageProvider/47#2#4#128#0#0"
 			qm_Border.top: 15
 			qm_Border.bottom: 15
 			qm_Border.right: 5
@@ -225,13 +251,13 @@ IGuiPage
 		{
 			id: q486539299
 			objId: 486539299
-			x: 129
+			x: 190
 			y: 325
 			width: 56
 			height: 40
 			qm_BorderCornerRadius: 3
 			qm_BorderWidth: 1
-			qm_ImageSource: "image://QSmartImageProvider/49#2#4#128#0#0"
+			qm_ImageSource: "image://QSmartImageProvider/47#2#4#128#0#0"
 			qm_Border.top: 15
 			qm_Border.bottom: 15
 			qm_Border.right: 5
@@ -251,13 +277,13 @@ IGuiPage
 		{
 			id: q486539300
 			objId: 486539300
-			x: 190
+			x: 7
 			y: 325
 			width: 56
 			height: 40
 			qm_BorderCornerRadius: 3
 			qm_BorderWidth: 1
-			qm_ImageSource: "image://QSmartImageProvider/49#2#4#128#0#0"
+			qm_ImageSource: "image://QSmartImageProvider/47#2#4#128#0#0"
 			qm_Border.top: 15
 			qm_Border.bottom: 15
 			qm_Border.right: 5
@@ -277,39 +303,13 @@ IGuiPage
 		{
 			id: q486539301
 			objId: 486539301
-			x: 7
-			y: 325
-			width: 56
-			height: 40
-			qm_BorderCornerRadius: 3
-			qm_BorderWidth: 1
-			qm_ImageSource: "image://QSmartImageProvider/49#2#4#128#0#0"
-			qm_Border.top: 15
-			qm_Border.bottom: 15
-			qm_Border.right: 5
-			qm_Border.left: 5
-			qm_FillColor: "#ffefebef"
-			qm_FocusWidth: 2
-			qm_FocusColor: "#ffa5cfd6"
-			qm_ImageFillMode:6
-			qm_ImagePossitionX: 3
-			qm_ImagePossitionY: 2
-			qm_ImageWidth: 51
-			qm_ImageHeight: 36
-			qm_SourceSizeWidth: 51
-			qm_SourceSizeHeight: 36
-		}
-		IGuiGraphicButton
-		{
-			id: q486539302
-			objId: 486539302
 			x: 190
 			y: 325
 			width: 56
 			height: 40
 			qm_BorderCornerRadius: 3
 			qm_BorderWidth: 1
-			qm_ImageSource: "image://QSmartImageProvider/49#2#4#128#0#0"
+			qm_ImageSource: "image://QSmartImageProvider/47#2#4#128#0#0"
 			qm_Border.top: 15
 			qm_Border.bottom: 15
 			qm_Border.right: 5
@@ -328,15 +328,15 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539303
-		objId: 486539303
-		x: 1
-		y: 52
-		width: 159
+		id: q486539316
+		objId: 486539316
+		x: 733
+		y: 48
+		width: 62
 		height: 47
 		qm_BorderCornerRadius: 3
 		qm_BorderWidth: 1
-		qm_ImageSource: "image://QSmartImageProvider/31#2#4#128#0#0"
+		qm_ImageSource: "image://QSmartImageProvider/29#2#4#128#0#0"
 		qm_Border.top: 15
 		qm_Border.bottom: 15
 		qm_Border.right: 5
@@ -351,5 +351,19 @@ IGuiPage
 		qm_Anchors.topMargin: 1
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
+	}
+	IGuiGraphicView
+	{
+		id: q301989891
+		objId: 301989891
+		x: 746
+		y: 57
+		width: 36
+		height: 30
+		qm_Transparent : true 
+		qm_ImageWidth: 36
+		qm_ImageHeight: 30
+		qm_SourceSizeWidth: 36
+		qm_SourceSizeHeight: 30
 	}
 }

@@ -208,15 +208,15 @@ IGuiPage
 	}
 	IGuiGraphicButton
 	{
-		id: q486539321
-		objId: 486539321
+		id: q486539316
+		objId: 486539316
 		x: 739
 		y: 418
 		width: 53
 		height: 53
 		qm_BorderCornerRadius: 3
 		qm_BorderWidth: 2
-		qm_ImageSource: "image://QSmartImageProvider/75#2#4#128#0#0"
+		qm_ImageSource: "image://QSmartImageProvider/76#2#4#128#0#0"
 		qm_Border.top: 15
 		qm_Border.bottom: 15
 		qm_Border.right: 5
@@ -233,8 +233,8 @@ IGuiPage
 	}
 	IGuiGraphicView
 	{
-		id: q301989896
-		objId: 301989896
+		id: q301989891
+		objId: 301989891
 		x: 403
 		y: 120
 		width: 289

@@ -70,7 +70,7 @@ IGuiTemplate
 		height: 32
 		qm_BorderCornerRadius: 3
 		qm_BorderWidth: 2
-		qm_ImageSource: "image://QSmartImageProvider/70#2#4#128#0#0"
+		qm_ImageSource: "image://QSmartImageProvider/71#2#4#128#0#0"
 		qm_Border.top: 15
 		qm_Border.bottom: 15
 		qm_Border.right: 5
@@ -96,7 +96,7 @@ IGuiTemplate
 		height: 32
 		qm_BorderCornerRadius: 3
 		qm_BorderWidth: 2
-		qm_ImageSource: "image://QSmartImageProvider/68#2#4#128#0#0"
+		qm_ImageSource: "image://QSmartImageProvider/69#2#4#128#0#0"
 		qm_Border.top: 15
 		qm_Border.bottom: 15
 		qm_Border.right: 5

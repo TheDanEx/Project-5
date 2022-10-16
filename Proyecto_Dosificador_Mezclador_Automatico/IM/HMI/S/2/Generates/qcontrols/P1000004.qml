@@ -138,12 +138,12 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539320
-		objId: 486539320
+		id: q486539325
+		objId: 486539325
 		x: 728
-		y: 426
-		width: 62
-		height: 47
+		y: 441
+		width: 60
+		height: 30
 		qm_BorderCornerRadius: 3
 		qm_BorderWidth: 1
 		qm_ImageSource: "image://QSmartImageProvider/29#2#4#128#0#0"
@@ -164,16 +164,16 @@ IGuiPage
 	}
 	IGuiGraphicView
 	{
-		id: q301989895
-		objId: 301989895
-		x: 741
-		y: 435
-		width: 36
-		height: 30
+		id: q301989894
+		objId: 301989894
+		x: 754
+		y: 444
+		width: 30
+		height: 24
 		qm_Transparent : true 
-		qm_ImageWidth: 36
-		qm_ImageHeight: 30
-		qm_SourceSizeWidth: 36
-		qm_SourceSizeHeight: 30
+		qm_ImageWidth: 30
+		qm_ImageHeight: 24
+		qm_SourceSizeWidth: 30
+		qm_SourceSizeHeight: 24
 	}
 }

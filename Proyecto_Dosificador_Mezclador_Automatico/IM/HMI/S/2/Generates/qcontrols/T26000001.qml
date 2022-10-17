@@ -488,7 +488,7 @@ IGuiTemplate
 		height: 122
 		qm_BorderWidth: 0
 		qm_TextColor: "#ff181c31"
-		qm_FillColor: "#ffc6c3c6"
+		qm_FillColor: "#ffb5b6b5"
 		qm_RectangleWidth: 100
 		qm_RectangleHeight: 122
 	}

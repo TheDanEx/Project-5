@@ -7,8 +7,8 @@ Item
 	{
 		id: q419430400
 		objId: 419430400
-		x: 691
-		y: 47
+		x: 697
+		y: 44
 		width: 37
 		height: 53
 		qm_BorderWidth: 1
@@ -242,8 +242,8 @@ Item
 	{
 		id: q520093697
 		objId: 520093697
-		x: 28
-		y: 51
+		x: 100
+		y: 100
 		width: 700
 		height: 380
 		z:35

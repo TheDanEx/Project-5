@@ -42,8 +42,8 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539323
-		objId: 486539323
+		id: q486539320
+		objId: 486539320
 		x: 728
 		y: 441
 		width: 60
@@ -234,15 +234,15 @@ IGuiPage
 		}
 		IGuiButton
 		{
-			id: q486539328
-			objId: 486539328
+			id: q486539325
+			objId: 486539325
 			x: 5
 			y: 41
 			width: 40
 			height: 40
 			qm_BorderCornerRadius: 3
 			qm_BorderWidth: 2
-			qm_ImageSource: "image://QSmartImageProvider/78#2#4#128#0#0"
+			qm_ImageSource: "image://QSmartImageProvider/77#2#4#128#0#0"
 			qm_Border.top: 15
 			qm_Border.bottom: 15
 			qm_Border.right: 5
@@ -260,15 +260,15 @@ IGuiPage
 		}
 		IGuiButton
 		{
-			id: q486539329
-			objId: 486539329
+			id: q486539326
+			objId: 486539326
 			x: 5
 			y: 86
 			width: 40
 			height: 40
 			qm_BorderCornerRadius: 3
 			qm_BorderWidth: 2
-			qm_ImageSource: "image://QSmartImageProvider/81#2#4#128#0#0"
+			qm_ImageSource: "image://QSmartImageProvider/80#2#4#128#0#0"
 			qm_Border.top: 15
 			qm_Border.bottom: 15
 			qm_Border.right: 5
@@ -311,15 +311,15 @@ IGuiPage
 		}
 		IGuiButton
 		{
-			id: q486539330
-			objId: 486539330
+			id: q486539327
+			objId: 486539327
 			x: 5
 			y: 41
 			width: 40
 			height: 40
 			qm_BorderCornerRadius: 3
 			qm_BorderWidth: 2
-			qm_ImageSource: "image://QSmartImageProvider/78#2#4#128#0#0"
+			qm_ImageSource: "image://QSmartImageProvider/77#2#4#128#0#0"
 			qm_Border.top: 15
 			qm_Border.bottom: 15
 			qm_Border.right: 5
@@ -337,15 +337,15 @@ IGuiPage
 		}
 		IGuiButton
 		{
-			id: q486539331
-			objId: 486539331
+			id: q486539328
+			objId: 486539328
 			x: 5
 			y: 85
 			width: 40
 			height: 40
 			qm_BorderCornerRadius: 3
 			qm_BorderWidth: 2
-			qm_ImageSource: "image://QSmartImageProvider/81#2#4#128#0#0"
+			qm_ImageSource: "image://QSmartImageProvider/80#2#4#128#0#0"
 			qm_Border.top: 15
 			qm_Border.bottom: 15
 			qm_Border.right: 5
@@ -388,15 +388,15 @@ IGuiPage
 		}
 		IGuiButton
 		{
-			id: q486539332
-			objId: 486539332
+			id: q486539329
+			objId: 486539329
 			x: 0
 			y: 41
 			width: 40
 			height: 40
 			qm_BorderCornerRadius: 3
 			qm_BorderWidth: 2
-			qm_ImageSource: "image://QSmartImageProvider/78#2#4#128#0#0"
+			qm_ImageSource: "image://QSmartImageProvider/77#2#4#128#0#0"
 			qm_Border.top: 15
 			qm_Border.bottom: 15
 			qm_Border.right: 5
@@ -414,15 +414,15 @@ IGuiPage
 		}
 		IGuiButton
 		{
-			id: q486539333
-			objId: 486539333
+			id: q486539330
+			objId: 486539330
 			x: 0
 			y: 85
 			width: 40
 			height: 40
 			qm_BorderCornerRadius: 3
 			qm_BorderWidth: 2
-			qm_ImageSource: "image://QSmartImageProvider/81#2#4#128#0#0"
+			qm_ImageSource: "image://QSmartImageProvider/80#2#4#128#0#0"
 			qm_Border.top: 15
 			qm_Border.bottom: 15
 			qm_Border.right: 5
@@ -465,15 +465,15 @@ IGuiPage
 		}
 		IGuiButton
 		{
-			id: q486539334
-			objId: 486539334
+			id: q486539331
+			objId: 486539331
 			x: 0
 			y: 41
 			width: 40
 			height: 40
 			qm_BorderCornerRadius: 3
 			qm_BorderWidth: 2
-			qm_ImageSource: "image://QSmartImageProvider/78#2#4#128#0#0"
+			qm_ImageSource: "image://QSmartImageProvider/77#2#4#128#0#0"
 			qm_Border.top: 15
 			qm_Border.bottom: 15
 			qm_Border.right: 5
@@ -491,15 +491,15 @@ IGuiPage
 		}
 		IGuiButton
 		{
-			id: q486539335
-			objId: 486539335
+			id: q486539332
+			objId: 486539332
 			x: 0
 			y: 85
 			width: 40
 			height: 40
 			qm_BorderCornerRadius: 3
 			qm_BorderWidth: 2
-			qm_ImageSource: "image://QSmartImageProvider/81#2#4#128#0#0"
+			qm_ImageSource: "image://QSmartImageProvider/80#2#4#128#0#0"
 			qm_Border.top: 15
 			qm_Border.bottom: 15
 			qm_Border.right: 5
@@ -542,15 +542,15 @@ IGuiPage
 		}
 		IGuiButton
 		{
-			id: q486539336
-			objId: 486539336
+			id: q486539333
+			objId: 486539333
 			x: 10
 			y: 45
 			width: 40
 			height: 40
 			qm_BorderCornerRadius: 3
 			qm_BorderWidth: 2
-			qm_ImageSource: "image://QSmartImageProvider/78#2#4#128#0#0"
+			qm_ImageSource: "image://QSmartImageProvider/77#2#4#128#0#0"
 			qm_Border.top: 15
 			qm_Border.bottom: 15
 			qm_Border.right: 5
@@ -568,15 +568,15 @@ IGuiPage
 		}
 		IGuiButton
 		{
-			id: q486539337
-			objId: 486539337
+			id: q486539334
+			objId: 486539334
 			x: 10
 			y: 89
 			width: 40
 			height: 40
 			qm_BorderCornerRadius: 3
 			qm_BorderWidth: 2
-			qm_ImageSource: "image://QSmartImageProvider/81#2#4#128#0#0"
+			qm_ImageSource: "image://QSmartImageProvider/80#2#4#128#0#0"
 			qm_Border.top: 15
 			qm_Border.bottom: 15
 			qm_Border.right: 5
@@ -619,15 +619,15 @@ IGuiPage
 		}
 		IGuiButton
 		{
-			id: q486539338
-			objId: 486539338
+			id: q486539335
+			objId: 486539335
 			x: 10
 			y: 45
 			width: 40
 			height: 40
 			qm_BorderCornerRadius: 3
 			qm_BorderWidth: 2
-			qm_ImageSource: "image://QSmartImageProvider/78#2#4#128#0#0"
+			qm_ImageSource: "image://QSmartImageProvider/77#2#4#128#0#0"
 			qm_Border.top: 15
 			qm_Border.bottom: 15
 			qm_Border.right: 5
@@ -645,15 +645,15 @@ IGuiPage
 		}
 		IGuiButton
 		{
-			id: q486539339
-			objId: 486539339
+			id: q486539336
+			objId: 486539336
 			x: 10
 			y: 89
 			width: 40
 			height: 40
 			qm_BorderCornerRadius: 3
 			qm_BorderWidth: 2
-			qm_ImageSource: "image://QSmartImageProvider/81#2#4#128#0#0"
+			qm_ImageSource: "image://QSmartImageProvider/80#2#4#128#0#0"
 			qm_Border.top: 15
 			qm_Border.bottom: 15
 			qm_Border.right: 5
@@ -1249,15 +1249,15 @@ IGuiPage
 		}
 		IGuiButton
 		{
-			id: q486539321
-			objId: 486539321
+			id: q486539318
+			objId: 486539318
 			x: 5
 			y: 41
 			width: 40
 			height: 40
 			qm_BorderCornerRadius: 3
 			qm_BorderWidth: 2
-			qm_ImageSource: "image://QSmartImageProvider/78#2#4#128#0#0"
+			qm_ImageSource: "image://QSmartImageProvider/77#2#4#128#0#0"
 			qm_Border.top: 15
 			qm_Border.bottom: 15
 			qm_Border.right: 5
@@ -1275,15 +1275,15 @@ IGuiPage
 		}
 		IGuiButton
 		{
-			id: q486539322
-			objId: 486539322
+			id: q486539319
+			objId: 486539319
 			x: 5
 			y: 86
 			width: 40
 			height: 40
 			qm_BorderCornerRadius: 3
 			qm_BorderWidth: 2
-			qm_ImageSource: "image://QSmartImageProvider/81#2#4#128#0#0"
+			qm_ImageSource: "image://QSmartImageProvider/80#2#4#128#0#0"
 			qm_Border.top: 15
 			qm_Border.bottom: 15
 			qm_Border.right: 5

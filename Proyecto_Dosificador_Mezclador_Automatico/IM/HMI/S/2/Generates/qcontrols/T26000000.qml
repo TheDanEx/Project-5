@@ -13,7 +13,7 @@ IGuiTemplate
 		objId: 335544321
 		x: 9
 		y: 4
-		width: 375
+		width: 256
 		height: 33
 		qm_BorderCornerRadius: 3
 		qm_BorderWidth: 1
@@ -64,13 +64,13 @@ IGuiTemplate
 	{
 		id: q486539311
 		objId: 486539311
-		x: 448
-		y: 48
+		x: 499
+		y: 4
 		width: 96
 		height: 32
 		qm_BorderCornerRadius: 3
 		qm_BorderWidth: 2
-		qm_ImageSource: "image://QSmartImageProvider/69#2#4#128#0#0"
+		qm_ImageSource: "image://QSmartImageProvider/68#2#4#128#0#0"
 		qm_Border.top: 15
 		qm_Border.bottom: 15
 		qm_Border.right: 5
@@ -90,13 +90,13 @@ IGuiTemplate
 	{
 		id: q486539312
 		objId: 486539312
-		x: 544
-		y: 48
+		x: 595
+		y: 4
 		width: 96
 		height: 32
 		qm_BorderCornerRadius: 3
 		qm_BorderWidth: 2
-		qm_ImageSource: "image://QSmartImageProvider/67#2#4#128#0#0"
+		qm_ImageSource: "image://QSmartImageProvider/66#2#4#128#0#0"
 		qm_Border.top: 15
 		qm_Border.bottom: 15
 		qm_Border.right: 5
@@ -116,13 +116,13 @@ IGuiTemplate
 	{
 		id: q33554441
 		objId: 33554441
-		x: 433
-		y: 4
+		x: 273
+		y: 5
 		width: 215
 		height: 32
 		qm_BorderCornerRadius: 3
 		qm_BorderWidth: 4
-		qm_ImageSource: "image://QSmartImageProvider/65#2#4#128#0#0"
+		qm_ImageSource: "image://QSmartImageProvider/64#2#4#128#0#0"
 		qm_Border.top: 5
 		qm_Border.bottom: 5
 		qm_Border.right: 5

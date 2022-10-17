@@ -132,8 +132,8 @@ IGuiPage
 	}
 	IGuiGraphicView
 	{
-		id: q301989895
-		objId: 301989895
+		id: q301989893
+		objId: 301989893
 		x: 754
 		y: 444
 		width: 30

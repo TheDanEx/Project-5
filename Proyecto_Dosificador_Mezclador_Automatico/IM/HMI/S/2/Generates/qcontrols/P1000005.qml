@@ -94,8 +94,8 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539324
-		objId: 486539324
+		id: q486539322
+		objId: 486539322
 		x: 734
 		y: 50
 		width: 60

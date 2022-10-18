@@ -1,0 +1,7 @@
+<?xml version="1.0" standalone="no"?>
+<?xml-stylesheet type='text/xsl' href='MassDataHandlerLogFile.xsl'?>
+<LogFile titleName="HMITextLists.xlsm - TextList.xlsx_import_log.xml" projectName="C:\Users\DanEx\Desktop\HMITextLists.xlsm - TextList.xlsx" typeText="Type" messageText="Message" timeText="Time">
+  <LogEntry type="Error" dateTime="7:39:27 PM">
+    <Message>The file format is invalid.</Message>
+  </LogEntry>
+</LogFile>

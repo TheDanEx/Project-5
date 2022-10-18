@@ -10,10 +10,10 @@ IGuiPage
 	height: 480
 	IGuiGraphicButton
 	{
-		id: q486539335
-		objId: 486539335
-		x: 487
-		y: 198
+		id: q486539334
+		objId: 486539334
+		x: 481
+		y: 207
 		width: 77
 		height: 43
 		qm_BorderCornerRadius: 3
@@ -38,7 +38,7 @@ IGuiPage
 		id: q671088662
 		objId: 671088662
 		x: 416
-		y: 74
+		y: 81
 		width: 227
 		height: 84
 		qm_BorderWidth: 1
@@ -54,7 +54,7 @@ IGuiPage
 		id: q268435513
 		objId: 268435513
 		x: 444
-		y: 74
+		y: 81
 		width: 44
 		height: 32
 		qm_Transparent : true 
@@ -67,10 +67,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539336
-		objId: 486539336
+		id: q486539335
+		objId: 486539335
 		x: 427
-		y: 110
+		y: 117
 		width: 40
 		height: 40
 		qm_BorderCornerRadius: 3
@@ -93,10 +93,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539337
-		objId: 486539337
+		id: q486539336
+		objId: 486539336
 		x: 470
-		y: 110
+		y: 117
 		width: 40
 		height: 40
 		qm_BorderCornerRadius: 3
@@ -122,7 +122,7 @@ IGuiPage
 		id: q268435514
 		objId: 268435514
 		x: 566
-		y: 74
+		y: 81
 		width: 46
 		height: 32
 		qm_Transparent : true 
@@ -135,10 +135,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539338
-		objId: 486539338
+		id: q486539337
+		objId: 486539337
 		x: 548
-		y: 110
+		y: 117
 		width: 40
 		height: 40
 		qm_BorderCornerRadius: 3
@@ -161,10 +161,10 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539339
-		objId: 486539339
+		id: q486539338
+		objId: 486539338
 		x: 591
-		y: 110
+		y: 117
 		width: 40
 		height: 40
 		qm_BorderCornerRadius: 3
@@ -187,10 +187,10 @@ IGuiPage
 	}
 	IGuiGraphicButton
 	{
-		id: q486539342
-		objId: 486539342
+		id: q486539341
+		objId: 486539341
 		x: 646
-		y: 74
+		y: 81
 		width: 29
 		height: 29
 		qm_BorderCornerRadius: 3
@@ -212,8 +212,8 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539343
-		objId: 486539343
+		id: q486539342
+		objId: 486539342
 		x: 728
 		y: 441
 		width: 60
@@ -252,8 +252,8 @@ IGuiPage
 	}
 	IGuiGraphicSwitch
 	{
-		id: q352321539
-		objId: 352321539
+		id: q352321538
+		objId: 352321538
 		x: 93
 		y: 48
 		width: 80

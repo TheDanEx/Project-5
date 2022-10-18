@@ -1,0 +1,10 @@
+<?xml version="1.0" standalone="no"?>
+<?xml-stylesheet type='text/xsl' href='MassDataHandlerLogFile.xsl'?>
+<LogFile titleName="HMITextLists.xlsx_import_log_2.xml" projectName="E:\Project-5\Project-5\HMITextLists.xlsx" typeText="Type" messageText="Message" timeText="Time">
+  <LogEntry type="Error" dateTime="7:53:11 PM">
+    <Message>The required worksheet 'TextList' is missing.</Message>
+  </LogEntry>
+  <LogEntry type="Error" dateTime="7:53:11 PM">
+    <Message>Import failed</Message>
+  </LogEntry>
+</LogFile>

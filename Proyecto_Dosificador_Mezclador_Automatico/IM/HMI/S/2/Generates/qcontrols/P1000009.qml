@@ -129,7 +129,7 @@ IGuiPage
 		qm_Border.bottom: 15
 		qm_Border.right: 5
 		qm_Border.left: 5
-		qm_FillColor: "#ffff6500"
+		qm_FillColor: "#ff944508"
 		qm_TextColor: "#ffffffff"
 		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
 		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter

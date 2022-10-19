@@ -9,8 +9,8 @@ IGuiTemplate
 	height: 480
 	IGuiTextField
 	{
-		id: q268435508
-		objId: 268435508
+		id: q268435481
+		objId: 268435481
 		x: 90
 		y: 149
 		width: 78
@@ -25,8 +25,8 @@ IGuiTemplate
 	}
 	IGuiTextField
 	{
-		id: q268435509
-		objId: 268435509
+		id: q268435482
+		objId: 268435482
 		x: 246
 		y: 149
 		width: 78
@@ -41,8 +41,8 @@ IGuiTemplate
 	}
 	IGuiGraphicView
 	{
-		id: q301989896
-		objId: 301989896
+		id: q301989891
+		objId: 301989891
 		x: 201
 		y: 231
 		width: 19
@@ -55,8 +55,8 @@ IGuiTemplate
 	}
 	IGuiGraphicView
 	{
-		id: q301989897
-		objId: 301989897
+		id: q301989892
+		objId: 301989892
 		x: 44
 		y: 232
 		width: 19
@@ -69,8 +69,8 @@ IGuiTemplate
 	}
 	IGuiGraphicView
 	{
-		id: q301989898
-		objId: 301989898
+		id: q301989893
+		objId: 301989893
 		x: 44
 		y: 250
 		width: 19
@@ -83,8 +83,8 @@ IGuiTemplate
 	}
 	IGuiQmlRectangle
 	{
-		id: q671088665
-		objId: 671088665
+		id: q671088654
+		objId: 671088654
 		x: 324
 		y: 281
 		width: 100
@@ -97,8 +97,8 @@ IGuiTemplate
 	}
 	IGuiGraphicView
 	{
-		id: q301989899
-		objId: 301989899
+		id: q301989894
+		objId: 301989894
 		x: 60
 		y: 250
 		width: 143
@@ -111,8 +111,8 @@ IGuiTemplate
 	}
 	IGuiGraphicView
 	{
-		id: q301989900
-		objId: 301989900
+		id: q301989895
+		objId: 301989895
 		x: 334
 		y: 321
 		width: 24
@@ -125,8 +125,8 @@ IGuiTemplate
 	}
 	IGuiGraphicView
 	{
-		id: q301989901
-		objId: 301989901
+		id: q301989896
+		objId: 301989896
 		x: 393
 		y: 321
 		width: 24
@@ -139,8 +139,8 @@ IGuiTemplate
 	}
 	IGuiGraphicView
 	{
-		id: q301989902
-		objId: 301989902
+		id: q301989897
+		objId: 301989897
 		x: 395
 		y: 352
 		width: 20
@@ -153,8 +153,8 @@ IGuiTemplate
 	}
 	IGuiGraphicView
 	{
-		id: q301989903
-		objId: 301989903
+		id: q301989898
+		objId: 301989898
 		x: 336
 		y: 352
 		width: 20
@@ -167,8 +167,8 @@ IGuiTemplate
 	}
 	IGuiGraphicView
 	{
-		id: q301989904
-		objId: 301989904
+		id: q301989899
+		objId: 301989899
 		x: 217
 		y: 250
 		width: 121
@@ -181,8 +181,8 @@ IGuiTemplate
 	}
 	IGuiGraphicView
 	{
-		id: q301989905
-		objId: 301989905
+		id: q301989900
+		objId: 301989900
 		x: 201
 		y: 250
 		width: 19
@@ -195,8 +195,8 @@ IGuiTemplate
 	}
 	IGuiGraphicView
 	{
-		id: q301989908
-		objId: 301989908
+		id: q301989903
+		objId: 301989903
 		x: 431
 		y: 303
 		width: 35
@@ -209,8 +209,8 @@ IGuiTemplate
 	}
 	IGuiGraphicView
 	{
-		id: q301989909
-		objId: 301989909
+		id: q301989904
+		objId: 301989904
 		x: 464
 		y: 303
 		width: 19
@@ -223,8 +223,8 @@ IGuiTemplate
 	}
 	IGuiGraphicView
 	{
-		id: q301989910
-		objId: 301989910
+		id: q301989905
+		objId: 301989905
 		x: 464
 		y: 178
 		width: 19
@@ -237,8 +237,8 @@ IGuiTemplate
 	}
 	IGuiGraphicView
 	{
-		id: q301989911
-		objId: 301989911
+		id: q301989906
+		objId: 301989906
 		x: 464
 		y: 163
 		width: 19
@@ -251,8 +251,8 @@ IGuiTemplate
 	}
 	IGuiGraphicView
 	{
-		id: q301989912
-		objId: 301989912
+		id: q301989907
+		objId: 301989907
 		x: 483
 		y: 163
 		width: 30
@@ -265,8 +265,8 @@ IGuiTemplate
 	}
 	IGuiGraphicView
 	{
-		id: q301989907
-		objId: 301989907
+		id: q301989902
+		objId: 301989902
 		x: 420
 		y: 301
 		width: 15
@@ -279,8 +279,8 @@ IGuiTemplate
 	}
 	IGuiGraphicView
 	{
-		id: q301989913
-		objId: 301989913
+		id: q301989908
+		objId: 301989908
 		x: 512
 		y: 163
 		width: 19
@@ -301,7 +301,7 @@ IGuiTemplate
 		height: 32
 		qm_BorderCornerRadius: 3
 		qm_BorderWidth: 4
-		qm_ImageSource: "image://QSmartImageProvider/693#2#4#128#0#0"
+		qm_ImageSource: "image://QSmartImageProvider/691#2#4#128#0#0"
 		qm_Border.top: 5
 		qm_Border.bottom: 5
 		qm_Border.right: 5
@@ -317,8 +317,8 @@ IGuiTemplate
 	}
 	IGuiTextField
 	{
-		id: q268435510
-		objId: 268435510
+		id: q268435483
+		objId: 268435483
 		x: 183
 		y: 287
 		width: 131
@@ -333,8 +333,8 @@ IGuiTemplate
 	}
 	IGuiTextField
 	{
-		id: q268435511
-		objId: 268435511
+		id: q268435484
+		objId: 268435484
 		x: 610
 		y: 138
 		width: 171
@@ -349,8 +349,8 @@ IGuiTemplate
 	}
 	IGuiTextField
 	{
-		id: q268435512
-		objId: 268435512
+		id: q268435485
+		objId: 268435485
 		x: 356
 		y: 148
 		width: 102
@@ -399,8 +399,8 @@ IGuiTemplate
 	}
 	IGuiSymbolicIoOutput
 	{
-		id: q335544355
-		objId: 335544355
+		id: q335544338
+		objId: 335544338
 		x: 9
 		y: 4
 		width: 256
@@ -418,15 +418,15 @@ IGuiTemplate
 	}
 	IGuiButton
 	{
-		id: q486539339
-		objId: 486539339
+		id: q486539318
+		objId: 486539318
 		x: 493
 		y: 5
 		width: 96
 		height: 32
 		qm_BorderCornerRadius: 3
 		qm_BorderWidth: 2
-		qm_ImageSource: "image://QSmartImageProvider/69#2#4#128#0#0"
+		qm_ImageSource: "image://QSmartImageProvider/68#2#4#128#0#0"
 		qm_Border.top: 15
 		qm_Border.bottom: 15
 		qm_Border.right: 5
@@ -444,8 +444,8 @@ IGuiTemplate
 	}
 	IGuiButton
 	{
-		id: q486539340
-		objId: 486539340
+		id: q486539319
+		objId: 486539319
 		x: 596
 		y: 5
 		width: 96
@@ -478,7 +478,7 @@ IGuiTemplate
 		height: 32
 		qm_BorderCornerRadius: 3
 		qm_BorderWidth: 3
-		qm_ImageSource: "image://QSmartImageProvider/719#2#4#128#0#0"
+		qm_ImageSource: "image://QSmartImageProvider/715#2#4#128#0#0"
 		qm_Border.top: 5
 		qm_Border.bottom: 5
 		qm_Border.right: 5
@@ -494,8 +494,8 @@ IGuiTemplate
 	}
 	IGuiGraphicView
 	{
-		id: q301989923
-		objId: 301989923
+		id: q301989917
+		objId: 301989917
 		x: 86
 		y: 222
 		width: 75
@@ -508,8 +508,8 @@ IGuiTemplate
 	}
 	IGuiGraphicIOField
 	{
-		id: q335544356
-		objId: 335544356
+		id: q335544339
+		objId: 335544339
 		x: 437
 		y: 305
 		width: 21
@@ -525,8 +525,8 @@ IGuiTemplate
 	}
 	IGuiGraphicIOField
 	{
-		id: q335544357
-		objId: 335544357
+		id: q335544340
+		objId: 335544340
 		x: 203
 		y: 214
 		width: 15
@@ -542,8 +542,8 @@ IGuiTemplate
 	}
 	IGuiGraphicIOField
 	{
-		id: q335544358
-		objId: 335544358
+		id: q335544341
+		objId: 335544341
 		x: 46
 		y: 214
 		width: 15
@@ -559,8 +559,8 @@ IGuiTemplate
 	}
 	IGuiGraphicSwitch
 	{
-		id: q352321540
-		objId: 352321540
+		id: q352321538
+		objId: 352321538
 		x: 715
 		y: 51
 		width: 65
@@ -577,8 +577,8 @@ IGuiTemplate
 	}
 	IGuiRectangle
 	{
-		id: q671088675
-		objId: 671088675
+		id: q671088664
+		objId: 671088664
 		x: 455
 		y: 50
 		width: 240
@@ -593,8 +593,8 @@ IGuiTemplate
 	}
 	IGuiTextField
 	{
-		id: q268435543
-		objId: 268435543
+		id: q268435514
+		objId: 268435514
 		x: 560
 		y: 56
 		width: 122
@@ -610,8 +610,8 @@ IGuiTemplate
 	}
 	IGuiGraphicIOFieldOutput
 	{
-		id: q335544386
-		objId: 335544386
+		id: q335544369
+		objId: 335544369
 		x: 606
 		y: 81
 		width: 30
@@ -622,21 +622,37 @@ IGuiTemplate
 		qm_SourceSizeWidth: 30
 		qm_SourceSizeHeight: 30
 	}
+	IGuiRectangle
+	{
+		id: q671088673
+		objId: 671088673
+		x: 470
+		y: 57
+		width: 78
+		height: 53
+		qm_BorderWidth: 1
+		qm_TextColor: "#ff181c31"
+		qm_FillColor: "#ff0000ff"
+		qm_BorderStyle: 0
+		qm_RectangleRadiusHorizontal: 15
+		qm_RectangleRadiusVertical: 30
+		qm_FillStyle: false
+	}
 	IGuiButton
 	{
-		id: q486539362
-		objId: 486539362
+		id: q486539339
+		objId: 486539339
 		x: 474
 		y: 61
 		width: 70
 		height: 45
-		qm_BorderCornerRadius: 3
+		qm_BorderCornerRadius: 6
 		qm_BorderWidth: 2
-		qm_ImageSource: "image://QSmartImageProvider/67#2#4#128#0#0"
+		qm_ImageSource: "image://QSmartImageProvider/726#2#4#128#0#0"
 		qm_Border.top: 15
 		qm_Border.bottom: 15
-		qm_Border.right: 5
-		qm_Border.left: 5
+		qm_Border.right: 8
+		qm_Border.left: 8
 		qm_FillColor: "#ff3165ff"
 		qm_TextColor: "#ffffffff"
 		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
@@ -650,8 +666,8 @@ IGuiTemplate
 	}
 	IGuiGraphicView
 	{
-		id: q301989895
-		objId: 301989895
+		id: q301989890
+		objId: 301989890
 		x: 26
 		y: 132
 		width: 55
@@ -664,8 +680,8 @@ IGuiTemplate
 	}
 	IGuiGraphicView
 	{
-		id: q301989914
-		objId: 301989914
+		id: q301989909
+		objId: 301989909
 		x: 183
 		y: 132
 		width: 55
@@ -678,8 +694,8 @@ IGuiTemplate
 	}
 	IGuiGraphicView
 	{
-		id: q301989915
-		objId: 301989915
+		id: q301989910
+		objId: 301989910
 		x: 319
 		y: 288
 		width: 112
@@ -692,8 +708,8 @@ IGuiTemplate
 	}
 	IGuiGraphicView
 	{
-		id: q301989916
-		objId: 301989916
+		id: q301989911
+		objId: 301989911
 		x: 323
 		y: 288
 		width: 103
@@ -706,8 +722,8 @@ IGuiTemplate
 	}
 	IGuiGraphicView
 	{
-		id: q301989917
-		objId: 301989917
+		id: q301989912
+		objId: 301989912
 		x: 424
 		y: 129
 		width: 125
@@ -720,8 +736,8 @@ IGuiTemplate
 	}
 	IGuiQmlRectangle
 	{
-		id: q671088661
-		objId: 671088661
+		id: q671088650
+		objId: 671088650
 		x: 549
 		y: 128
 		width: 14
@@ -734,8 +750,8 @@ IGuiTemplate
 	}
 	IGuiGraphicView
 	{
-		id: q301989918
-		objId: 301989918
+		id: q301989913
+		objId: 301989913
 		x: 510
 		y: 125
 		width: 18
@@ -756,8 +772,8 @@ IGuiTemplate
 		height: 213
 		IGuiGraphicIOFieldOutput
 		{
-			id: q335544338
-			objId: 335544338
+			id: q335544321
+			objId: 335544321
 			x: 0
 			y: 0
 			width: 213
@@ -770,8 +786,8 @@ IGuiTemplate
 		}
 		IGuiGraphicIOFieldOutput
 		{
-			id: q335544339
-			objId: 335544339
+			id: q335544322
+			objId: 335544322
 			x: 0
 			y: 0
 			width: 213
@@ -784,8 +800,8 @@ IGuiTemplate
 		}
 		IGuiGraphicIOFieldOutput
 		{
-			id: q335544340
-			objId: 335544340
+			id: q335544323
+			objId: 335544323
 			x: 0
 			y: 0
 			width: 213
@@ -798,8 +814,8 @@ IGuiTemplate
 		}
 		IGuiGraphicIOFieldOutput
 		{
-			id: q335544341
-			objId: 335544341
+			id: q335544324
+			objId: 335544324
 			x: 0
 			y: 0
 			width: 213
@@ -812,8 +828,8 @@ IGuiTemplate
 		}
 		IGuiGraphicIOFieldOutput
 		{
-			id: q335544342
-			objId: 335544342
+			id: q335544325
+			objId: 335544325
 			x: 0
 			y: 0
 			width: 213
@@ -826,8 +842,8 @@ IGuiTemplate
 		}
 		IGuiGraphicIOFieldOutput
 		{
-			id: q335544343
-			objId: 335544343
+			id: q335544326
+			objId: 335544326
 			x: 0
 			y: 0
 			width: 213
@@ -840,8 +856,8 @@ IGuiTemplate
 		}
 		IGuiGraphicIOFieldOutput
 		{
-			id: q335544344
-			objId: 335544344
+			id: q335544327
+			objId: 335544327
 			x: 0
 			y: 0
 			width: 213
@@ -854,8 +870,8 @@ IGuiTemplate
 		}
 		IGuiGraphicIOFieldOutput
 		{
-			id: q335544345
-			objId: 335544345
+			id: q335544328
+			objId: 335544328
 			x: 0
 			y: 0
 			width: 213
@@ -868,8 +884,8 @@ IGuiTemplate
 		}
 		IGuiGraphicIOFieldOutput
 		{
-			id: q335544346
-			objId: 335544346
+			id: q335544329
+			objId: 335544329
 			x: 0
 			y: 0
 			width: 213
@@ -882,8 +898,8 @@ IGuiTemplate
 		}
 		IGuiGraphicIOFieldOutput
 		{
-			id: q335544347
-			objId: 335544347
+			id: q335544330
+			objId: 335544330
 			x: 0
 			y: 0
 			width: 213
@@ -896,8 +912,8 @@ IGuiTemplate
 		}
 		IGuiGraphicIOFieldOutput
 		{
-			id: q335544348
-			objId: 335544348
+			id: q335544331
+			objId: 335544331
 			x: 0
 			y: 0
 			width: 213
@@ -910,8 +926,8 @@ IGuiTemplate
 		}
 		IGuiGraphicIOFieldOutput
 		{
-			id: q335544349
-			objId: 335544349
+			id: q335544332
+			objId: 335544332
 			x: 0
 			y: 0
 			width: 213
@@ -924,8 +940,8 @@ IGuiTemplate
 		}
 		IGuiGraphicIOFieldOutput
 		{
-			id: q335544350
-			objId: 335544350
+			id: q335544333
+			objId: 335544333
 			x: 0
 			y: 0
 			width: 213
@@ -938,8 +954,8 @@ IGuiTemplate
 		}
 		IGuiGraphicIOFieldOutput
 		{
-			id: q335544351
-			objId: 335544351
+			id: q335544334
+			objId: 335544334
 			x: 0
 			y: 0
 			width: 213
@@ -952,8 +968,8 @@ IGuiTemplate
 		}
 		IGuiGraphicIOFieldOutput
 		{
-			id: q335544352
-			objId: 335544352
+			id: q335544335
+			objId: 335544335
 			x: 0
 			y: 0
 			width: 213
@@ -966,8 +982,8 @@ IGuiTemplate
 		}
 		IGuiGraphicIOFieldOutput
 		{
-			id: q335544353
-			objId: 335544353
+			id: q335544336
+			objId: 335544336
 			x: 0
 			y: 0
 			width: 213
@@ -980,8 +996,8 @@ IGuiTemplate
 		}
 		IGuiGraphicIOFieldOutput
 		{
-			id: q335544354
-			objId: 335544354
+			id: q335544337
+			objId: 335544337
 			x: 0
 			y: 0
 			width: 213
@@ -994,8 +1010,8 @@ IGuiTemplate
 		}
 		IGuiGraphicView
 		{
-			id: q301989919
-			objId: 301989919
+			id: q301989914
+			objId: 301989914
 			x: 0
 			y: 0
 			width: 213
@@ -1009,8 +1025,8 @@ IGuiTemplate
 	}
 	IGuiQmlRectangle
 	{
-		id: q671088663
-		objId: 671088663
+		id: q671088652
+		objId: 671088652
 		x: 342
 		y: 266
 		width: 6
@@ -1023,8 +1039,8 @@ IGuiTemplate
 	}
 	IGuiQmlRectangle
 	{
-		id: q671088664
-		objId: 671088664
+		id: q671088653
+		objId: 671088653
 		x: 329
 		y: 299
 		width: 90
@@ -1037,8 +1053,8 @@ IGuiTemplate
 	}
 	IGuiGraphicView
 	{
-		id: q301989906
-		objId: 301989906
+		id: q301989901
+		objId: 301989901
 		x: 336
 		y: 250
 		width: 19
@@ -1051,8 +1067,8 @@ IGuiTemplate
 	}
 	IGuiGraphicView
 	{
-		id: q301989921
-		objId: 301989921
+		id: q301989915
+		objId: 301989915
 		x: 335
 		y: 265
 		width: 20
@@ -1065,8 +1081,8 @@ IGuiTemplate
 	}
 	IGuiGraphicView
 	{
-		id: q301989922
-		objId: 301989922
+		id: q301989916
+		objId: 301989916
 		x: 511
 		y: 178
 		width: 20

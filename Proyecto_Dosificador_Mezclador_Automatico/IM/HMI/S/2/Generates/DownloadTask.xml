@@ -2,7 +2,7 @@
 <DownloadTask>
   <ProjectInfo
     DeviceVersion="17.0.0.0"
-    CreationTime="2022-10-19 14:13:14 (UTC)"
+    CreationTime="2022-10-19 18:47:43 (UTC)"
     Runtime="SMART"
     RtProjectName="Proyecto_Dosificador_Mezclador_Automatico.HMI_1[KTP700 Basic PN]"
     RtProjectFolderName="Proyecto_Dosificador_Mezclador_Automatico.HMI_1[KTP700 Basic PN]"
@@ -19,5 +19,9 @@
   <FullDownload
     type="ADMINDATA">pdata.pwx</FullDownload>
   <FullDownload>pdata.ORIE.cnk</FullDownload>
+  <FullDownload
+    type="RECIPE">pdata.R001.cnk</FullDownload>
   <FullDownload>pdata.ETH0.cnk</FullDownload>
+  <FullDownload
+    type="RECIPE">pdata.R000.cnk</FullDownload>
 </DownloadTask>

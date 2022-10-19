@@ -64,8 +64,8 @@ Item
 		modalityHeight: 122
 		IGuiGraphicButton
 		{
-			id: q486539302
-			objId: 486539302
+			id: q486539301
+			objId: 486539301
 			x: 666
 			y: 0
 			width: 34
@@ -84,7 +84,7 @@ Item
 			qm_SourceSizeHeight: 30
 			Component.onCompleted:
 			{
-				proxy.initProxy(q486539302,486539302)
+				proxy.initProxy(q486539301,486539301)
 			}
 		}
 		IGuiAlarmView
@@ -170,8 +170,8 @@ Item
 			}
 			IGuiGraphicButton
 			{
-				id: q486539303
-				objId: 486539303
+				id: q486539302
+				objId: 486539302
 				x: 2
 				y: 281
 				width: 56
@@ -195,13 +195,13 @@ Item
 				qm_SourceSizeHeight: 36
 				Component.onCompleted:
 				{
-					proxy.initProxy(q486539303,486539303)
+					proxy.initProxy(q486539302,486539302)
 				}
 			}
 			IGuiGraphicButton
 			{
-				id: q486539304
-				objId: 486539304
+				id: q486539303
+				objId: 486539303
 				x: 640
 				y: 281
 				width: 56
@@ -225,7 +225,7 @@ Item
 				qm_SourceSizeHeight: 36
 				Component.onCompleted:
 				{
-					proxy.initProxy(q486539304,486539304)
+					proxy.initProxy(q486539303,486539303)
 				}
 			}
 			Component.onCompleted:
@@ -267,8 +267,8 @@ Item
 		modalityHeight: 100
 		IGuiGraphicButton
 		{
-			id: q486539305
-			objId: 486539305
+			id: q486539304
+			objId: 486539304
 			x: 666
 			y: 0
 			width: 34
@@ -287,7 +287,7 @@ Item
 			qm_SourceSizeHeight: 30
 			Component.onCompleted:
 			{
-				proxy.initProxy(q486539305,486539305)
+				proxy.initProxy(q486539304,486539304)
 			}
 		}
 		IGuiAlarmView
@@ -374,8 +374,8 @@ Item
 			}
 			IGuiGraphicButton
 			{
-				id: q486539306
-				objId: 486539306
+				id: q486539305
+				objId: 486539305
 				x: 2
 				y: 303
 				width: 56
@@ -399,13 +399,13 @@ Item
 				qm_SourceSizeHeight: 36
 				Component.onCompleted:
 				{
-					proxy.initProxy(q486539306,486539306)
+					proxy.initProxy(q486539305,486539305)
 				}
 			}
 			IGuiGraphicButton
 			{
-				id: q486539307
-				objId: 486539307
+				id: q486539306
+				objId: 486539306
 				x: 640
 				y: 303
 				width: 56
@@ -429,7 +429,7 @@ Item
 				qm_SourceSizeHeight: 36
 				Component.onCompleted:
 				{
-					proxy.initProxy(q486539307,486539307)
+					proxy.initProxy(q486539306,486539306)
 				}
 			}
 			Component.onCompleted:

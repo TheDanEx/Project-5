@@ -18,8 +18,8 @@ IGuiPage
 		height: 100
 		IGuiRectangle
 		{
-			id: q671088664
-			objId: 671088664
+			id: q671088663
+			objId: 671088663
 			x: 0
 			y: 0
 			width: 593
@@ -42,8 +42,8 @@ IGuiPage
 			height: 49
 			IGuiRectangle
 			{
-				id: q671088665
-				objId: 671088665
+				id: q671088664
+				objId: 671088664
 				x: 195
 				y: 0
 				width: 92
@@ -58,8 +58,8 @@ IGuiPage
 			}
 			IGuiRectangle
 			{
-				id: q671088666
-				objId: 671088666
+				id: q671088665
+				objId: 671088665
 				x: 97
 				y: 0
 				width: 92
@@ -74,8 +74,8 @@ IGuiPage
 			}
 			IGuiRectangle
 			{
-				id: q671088667
-				objId: 671088667
+				id: q671088666
+				objId: 671088666
 				x: 0
 				y: 0
 				width: 92
@@ -90,8 +90,8 @@ IGuiPage
 			}
 			IGuiButton
 			{
-				id: q486539341
-				objId: 486539341
+				id: q486539335
+				objId: 486539335
 				x: 198
 				y: 3
 				width: 86
@@ -116,8 +116,8 @@ IGuiPage
 			}
 			IGuiButton
 			{
-				id: q486539339
-				objId: 486539339
+				id: q486539333
+				objId: 486539333
 				x: 3
 				y: 3
 				width: 86
@@ -142,8 +142,8 @@ IGuiPage
 			}
 			IGuiButton
 			{
-				id: q486539340
-				objId: 486539340
+				id: q486539334
+				objId: 486539334
 				x: 100
 				y: 3
 				width: 86
@@ -194,8 +194,8 @@ IGuiPage
 			}
 			IGuiTextField
 			{
-				id: q268435515
-				objId: 268435515
+				id: q268435511
+				objId: 268435511
 				x: 141
 				y: 0
 				width: 121
@@ -214,8 +214,8 @@ IGuiPage
 			}
 			IGuiTextField
 			{
-				id: q268435514
-				objId: 268435514
+				id: q268435510
+				objId: 268435510
 				x: 0
 				y: 0
 				width: 114
@@ -234,8 +234,8 @@ IGuiPage
 			}
 			IGuiGraphicButton
 			{
-				id: q486539342
-				objId: 486539342
+				id: q486539336
+				objId: 486539336
 				x: 95
 				y: 26
 				width: 73
@@ -261,8 +261,8 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539346
-		objId: 486539346
+		id: q486539340
+		objId: 486539340
 		x: 702
 		y: 438
 		width: 89
@@ -301,8 +301,8 @@ IGuiPage
 	}
 	IGuiGraphicButton
 	{
-		id: q486539347
-		objId: 486539347
+		id: q486539341
+		objId: 486539341
 		x: 702
 		y: 438
 		width: 89

@@ -90,8 +90,8 @@ IGuiPage
 			}
 			IGuiButton
 			{
-				id: q486539342
-				objId: 486539342
+				id: q486539341
+				objId: 486539341
 				x: 198
 				y: 3
 				width: 86
@@ -116,8 +116,8 @@ IGuiPage
 			}
 			IGuiButton
 			{
-				id: q486539340
-				objId: 486539340
+				id: q486539339
+				objId: 486539339
 				x: 3
 				y: 3
 				width: 86
@@ -142,8 +142,8 @@ IGuiPage
 			}
 			IGuiButton
 			{
-				id: q486539341
-				objId: 486539341
+				id: q486539340
+				objId: 486539340
 				x: 100
 				y: 3
 				width: 86
@@ -234,8 +234,8 @@ IGuiPage
 			}
 			IGuiGraphicButton
 			{
-				id: q486539343
-				objId: 486539343
+				id: q486539342
+				objId: 486539342
 				x: 95
 				y: 26
 				width: 73
@@ -261,8 +261,8 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539347
-		objId: 486539347
+		id: q486539346
+		objId: 486539346
 		x: 702
 		y: 438
 		width: 89
@@ -301,8 +301,8 @@ IGuiPage
 	}
 	IGuiGraphicButton
 	{
-		id: q486539348
-		objId: 486539348
+		id: q486539347
+		objId: 486539347
 		x: 702
 		y: 438
 		width: 89

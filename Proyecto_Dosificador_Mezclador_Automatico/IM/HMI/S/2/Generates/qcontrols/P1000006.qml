@@ -10,8 +10,8 @@ IGuiPage
 	height: 480
 	IGuiRectangle
 	{
-		id: q671088661
-		objId: 671088661
+		id: q671088660
+		objId: 671088660
 		x: 600
 		y: 122
 		width: 93
@@ -26,8 +26,8 @@ IGuiPage
 	}
 	IGuiRectangle
 	{
-		id: q671088659
-		objId: 671088659
+		id: q671088658
+		objId: 671088658
 		x: 406
 		y: 122
 		width: 93
@@ -82,8 +82,8 @@ IGuiPage
 	}
 	IGuiRectangle
 	{
-		id: q671088655
-		objId: 671088655
+		id: q671088654
+		objId: 671088654
 		x: 4
 		y: 122
 		width: 129
@@ -98,8 +98,8 @@ IGuiPage
 	}
 	IGuiRectangle
 	{
-		id: q671088656
-		objId: 671088656
+		id: q671088655
+		objId: 671088655
 		x: 698
 		y: 122
 		width: 97
@@ -424,8 +424,8 @@ IGuiPage
 	}
 	IGuiRectangle
 	{
-		id: q671088657
-		objId: 671088657
+		id: q671088656
+		objId: 671088656
 		x: 138
 		y: 122
 		width: 129
@@ -576,8 +576,8 @@ IGuiPage
 	}
 	IGuiRectangle
 	{
-		id: q671088658
-		objId: 671088658
+		id: q671088657
+		objId: 671088657
 		x: 272
 		y: 122
 		width: 129
@@ -836,8 +836,8 @@ IGuiPage
 	}
 	IGuiRectangle
 	{
-		id: q671088660
-		objId: 671088660
+		id: q671088659
+		objId: 671088659
 		x: 503
 		y: 122
 		width: 93
@@ -1103,8 +1103,8 @@ IGuiPage
 	}
 	IGuiRectangle
 	{
-		id: q671088663
-		objId: 671088663
+		id: q671088662
+		objId: 671088662
 		x: 273
 		y: 50
 		width: 179
@@ -1136,8 +1136,8 @@ IGuiPage
 	}
 	IGuiIOField
 	{
-		id: q33554445
-		objId: 33554445
+		id: q33554444
+		objId: 33554444
 		x: 306
 		y: 79
 		width: 110

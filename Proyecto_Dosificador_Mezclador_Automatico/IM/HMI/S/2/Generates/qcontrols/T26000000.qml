@@ -114,8 +114,8 @@ IGuiTemplate
 	}
 	IGuiIOField
 	{
-		id: q33554446
-		objId: 33554446
+		id: q33554445
+		objId: 33554445
 		x: 273
 		y: 5
 		width: 215
@@ -156,8 +156,8 @@ IGuiTemplate
 	}
 	IGuiRectangle
 	{
-		id: q671088662
-		objId: 671088662
+		id: q671088661
+		objId: 671088661
 		x: 455
 		y: 50
 		width: 240
@@ -203,8 +203,8 @@ IGuiTemplate
 	}
 	IGuiRectangle
 	{
-		id: q671088674
-		objId: 671088674
+		id: q671088673
+		objId: 671088673
 		x: 470
 		y: 57
 		width: 78

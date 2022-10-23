@@ -100,28 +100,28 @@ IGuiTemplate
 		id: q301989895
 		objId: 301989895
 		x: 207
-		y: 307
+		y: 328
 		width: 24
-		height: 35
+		height: 14
 		qm_Transparent : true 
 		qm_ImageWidth: 24
-		qm_ImageHeight: 35
+		qm_ImageHeight: 14
 		qm_SourceSizeWidth: 24
-		qm_SourceSizeHeight: 35
+		qm_SourceSizeHeight: 14
 	}
 	IGuiGraphicView
 	{
 		id: q301989896
 		objId: 301989896
 		x: 266
-		y: 307
+		y: 330
 		width: 24
-		height: 35
+		height: 14
 		qm_Transparent : true 
 		qm_ImageWidth: 24
-		qm_ImageHeight: 35
+		qm_ImageHeight: 14
 		qm_SourceSizeWidth: 24
-		qm_SourceSizeHeight: 35
+		qm_SourceSizeHeight: 14
 	}
 	IGuiGraphicView
 	{
@@ -184,7 +184,7 @@ IGuiTemplate
 		id: q301989903
 		objId: 301989903
 		x: 304
-		y: 289
+		y: 311
 		width: 35
 		height: 19
 		qm_Transparent : true 
@@ -198,7 +198,7 @@ IGuiTemplate
 		id: q301989904
 		objId: 301989904
 		x: 338
-		y: 289
+		y: 311
 		width: 19
 		height: 19
 		qm_Transparent : true 
@@ -214,12 +214,12 @@ IGuiTemplate
 		x: 338
 		y: 164
 		width: 19
-		height: 130
+		height: 151
 		qm_Transparent : true 
 		qm_ImageWidth: 19
-		qm_ImageHeight: 130
+		qm_ImageHeight: 151
 		qm_SourceSizeWidth: 19
-		qm_SourceSizeHeight: 130
+		qm_SourceSizeHeight: 151
 	}
 	IGuiGraphicView
 	{
@@ -254,7 +254,7 @@ IGuiTemplate
 		id: q301989902
 		objId: 301989902
 		x: 293
-		y: 287
+		y: 309
 		width: 15
 		height: 22
 		qm_Transparent : true 
@@ -473,7 +473,7 @@ IGuiTemplate
 		id: q335544339
 		objId: 335544339
 		x: 310
-		y: 291
+		y: 313
 		width: 21
 		height: 14
 		qm_Transparent : true 
@@ -836,28 +836,28 @@ IGuiTemplate
 		id: q301989910
 		objId: 301989910
 		x: 192
-		y: 274
+		y: 260
 		width: 112
-		height: 38
+		height: 71
 		qm_Transparent : true 
 		qm_ImageWidth: 112
-		qm_ImageHeight: 38
+		qm_ImageHeight: 71
 		qm_SourceSizeWidth: 112
-		qm_SourceSizeHeight: 38
+		qm_SourceSizeHeight: 71
 	}
 	IGuiGraphicView
 	{
 		id: q301989911
 		objId: 301989911
 		x: 196
-		y: 274
+		y: 259
 		width: 103
-		height: 33
+		height: 66
 		qm_Transparent : true 
 		qm_ImageWidth: 103
-		qm_ImageHeight: 33
+		qm_ImageHeight: 66
 		qm_SourceSizeWidth: 103
-		qm_SourceSizeHeight: 33
+		qm_SourceSizeHeight: 66
 	}
 	IGuiGraphicView
 	{
@@ -1172,7 +1172,7 @@ IGuiTemplate
 		height: 52
 		qm_BorderWidth: 0
 		qm_TextColor: "#ff181c31"
-		qm_FillColor: "#ff9ccfff"
+		qm_FillColor: "#ffb5ff94"
 		qm_RectangleWidth: 6
 		qm_RectangleHeight: 52
 	}
@@ -1181,7 +1181,7 @@ IGuiTemplate
 		id: q671088652
 		objId: 671088652
 		x: 202
-		y: 285
+		y: 303
 		width: 90
 		height: 19
 		qm_BorderWidth: 0
@@ -1231,6 +1231,20 @@ IGuiTemplate
 		qm_ImageHeight: 6
 		qm_SourceSizeWidth: 20
 		qm_SourceSizeHeight: 6
+	}
+	IGuiQmlRectangle
+	{
+		id: q671088684
+		objId: 671088684
+		x: 202
+		y: 283
+		width: 90
+		height: 20
+		qm_BorderWidth: 0
+		qm_TextColor: "#ff181c31"
+		qm_FillColor: "#ffffff9c"
+		qm_RectangleWidth: 90
+		qm_RectangleHeight: 20
 	}
 	IGuiTextField
 	{

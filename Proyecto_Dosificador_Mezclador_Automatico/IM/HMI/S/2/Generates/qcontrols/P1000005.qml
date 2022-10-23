@@ -123,8 +123,8 @@ IGuiPage
 	{
 		id: q486539354
 		objId: 486539354
-		x: 306
-		y: 285
+		x: 308
+		y: 308
 		width: 27
 		height: 25
 		qm_BorderCornerRadius: 3
@@ -192,8 +192,8 @@ IGuiPage
 	{
 		id: q486539357
 		objId: 486539357
-		x: 349
-		y: 238
+		x: 364
+		y: 236
 		width: 93
 		height: 105
 		qm_BorderCornerRadius: 3
@@ -264,126 +264,8 @@ IGuiPage
 	}
 	IGuiContainer
 	{
-		id: q369098759
-		objId: 369098759
-		x: 9
-		y: 368
-		width: 136
-		height: 87
-		IGuiRectangle
-		{
-			id: q671088673
-			objId: 671088673
-			x: 0
-			y: 3
-			width: 104
-			height: 84
-			qm_BorderWidth: 1
-			qm_TextColor: "#ff181c31"
-			qm_FillColor: "#ffdedfde"
-			qm_BorderStyle: 0
-			qm_RectangleRadiusHorizontal: 8
-			qm_RectangleRadiusVertical: 14
-			qm_FillStyle: false
-		}
-		IGuiTextField
-		{
-			id: q268435527
-			objId: 268435527
-			x: 34
-			y: 3
-			width: 37
-			height: 18
-			qm_Transparent : true 
-			qm_TextColor: "#ff000000"
-			qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-			qm_Anchors.bottomMargin: 2
-			qm_Anchors.leftMargin: 3
-			qm_Anchors.rightMargin: 2
-			qm_Anchors.topMargin: 2
-		}
-		IGuiButton
-		{
-			id: q486539359
-			objId: 486539359
-			x: 11
-			y: 39
-			width: 40
-			height: 40
-			qm_BorderCornerRadius: 3
-			qm_BorderWidth: 2
-			qm_ImageSource: "image://QSmartImageProvider/70#2#4#128#0#0"
-			qm_Border.top: 15
-			qm_Border.bottom: 15
-			qm_Border.right: 5
-			qm_Border.left: 5
-			qm_FillColor: "#ff008200"
-			qm_TextColor: "#ffffffff"
-			qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-			qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-			qm_Anchors.bottomMargin: 2
-			qm_Anchors.leftMargin: 2
-			qm_Anchors.rightMargin: 2
-			qm_Anchors.topMargin: 2
-			qm_FocusWidth: 2
-			qm_FocusColor: "#ff94b6e7"
-		}
-		IGuiButton
-		{
-			id: q486539360
-			objId: 486539360
-			x: 54
-			y: 39
-			width: 40
-			height: 40
-			qm_BorderCornerRadius: 3
-			qm_BorderWidth: 2
-			qm_ImageSource: "image://QSmartImageProvider/73#2#4#128#0#0"
-			qm_Border.top: 15
-			qm_Border.bottom: 15
-			qm_Border.right: 5
-			qm_Border.left: 5
-			qm_FillColor: "#ff840000"
-			qm_TextColor: "#ffffffff"
-			qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-			qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-			qm_Anchors.bottomMargin: 2
-			qm_Anchors.leftMargin: 2
-			qm_Anchors.rightMargin: 2
-			qm_Anchors.topMargin: 2
-			qm_FocusWidth: 2
-			qm_FocusColor: "#ff94b6e7"
-		}
-		IGuiGraphicButton
-		{
-			id: q486539361
-			objId: 486539361
-			x: 107
-			y: 0
-			width: 29
-			height: 29
-			qm_BorderCornerRadius: 3
-			qm_BorderWidth: 2
-			qm_ImageSource: "image://QSmartImageProvider/691#2#4#128#0#0"
-			qm_Border.top: 14
-			qm_Border.bottom: 15
-			qm_Border.right: 5
-			qm_Border.left: 5
-			qm_FillColor: "#ff636573"
-			qm_FocusWidth: 2
-			qm_FocusColor: "#ff94b6e7"
-			qm_ImagePossitionX: 2
-			qm_ImagePossitionY: 2
-			qm_ImageWidth: 25
-			qm_ImageHeight: 25
-			qm_SourceSizeWidth: 25
-			qm_SourceSizeHeight: 25
-		}
-	}
-	IGuiContainer
-	{
-		id: q369098760
-		objId: 369098760
+		id: q369098763
+		objId: 369098763
 		x: 526
 		y: 133
 		width: 136
@@ -500,8 +382,126 @@ IGuiPage
 	}
 	IGuiContainer
 	{
-		id: q369098761
-		objId: 369098761
+		id: q369098764
+		objId: 369098764
+		x: 9
+		y: 368
+		width: 136
+		height: 87
+		IGuiRectangle
+		{
+			id: q671088673
+			objId: 671088673
+			x: 0
+			y: 3
+			width: 104
+			height: 84
+			qm_BorderWidth: 1
+			qm_TextColor: "#ff181c31"
+			qm_FillColor: "#ffdedfde"
+			qm_BorderStyle: 0
+			qm_RectangleRadiusHorizontal: 8
+			qm_RectangleRadiusVertical: 14
+			qm_FillStyle: false
+		}
+		IGuiTextField
+		{
+			id: q268435527
+			objId: 268435527
+			x: 34
+			y: 3
+			width: 37
+			height: 18
+			qm_Transparent : true 
+			qm_TextColor: "#ff000000"
+			qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+			qm_Anchors.bottomMargin: 2
+			qm_Anchors.leftMargin: 3
+			qm_Anchors.rightMargin: 2
+			qm_Anchors.topMargin: 2
+		}
+		IGuiButton
+		{
+			id: q486539359
+			objId: 486539359
+			x: 11
+			y: 39
+			width: 40
+			height: 40
+			qm_BorderCornerRadius: 3
+			qm_BorderWidth: 2
+			qm_ImageSource: "image://QSmartImageProvider/70#2#4#128#0#0"
+			qm_Border.top: 15
+			qm_Border.bottom: 15
+			qm_Border.right: 5
+			qm_Border.left: 5
+			qm_FillColor: "#ff008200"
+			qm_TextColor: "#ffffffff"
+			qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
+			qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+			qm_Anchors.bottomMargin: 2
+			qm_Anchors.leftMargin: 2
+			qm_Anchors.rightMargin: 2
+			qm_Anchors.topMargin: 2
+			qm_FocusWidth: 2
+			qm_FocusColor: "#ff94b6e7"
+		}
+		IGuiButton
+		{
+			id: q486539360
+			objId: 486539360
+			x: 54
+			y: 39
+			width: 40
+			height: 40
+			qm_BorderCornerRadius: 3
+			qm_BorderWidth: 2
+			qm_ImageSource: "image://QSmartImageProvider/73#2#4#128#0#0"
+			qm_Border.top: 15
+			qm_Border.bottom: 15
+			qm_Border.right: 5
+			qm_Border.left: 5
+			qm_FillColor: "#ff840000"
+			qm_TextColor: "#ffffffff"
+			qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
+			qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+			qm_Anchors.bottomMargin: 2
+			qm_Anchors.leftMargin: 2
+			qm_Anchors.rightMargin: 2
+			qm_Anchors.topMargin: 2
+			qm_FocusWidth: 2
+			qm_FocusColor: "#ff94b6e7"
+		}
+		IGuiGraphicButton
+		{
+			id: q486539361
+			objId: 486539361
+			x: 107
+			y: 0
+			width: 29
+			height: 29
+			qm_BorderCornerRadius: 3
+			qm_BorderWidth: 2
+			qm_ImageSource: "image://QSmartImageProvider/691#2#4#128#0#0"
+			qm_Border.top: 14
+			qm_Border.bottom: 15
+			qm_Border.right: 5
+			qm_Border.left: 5
+			qm_FillColor: "#ff636573"
+			qm_FocusWidth: 2
+			qm_FocusColor: "#ff94b6e7"
+			qm_ImagePossitionX: 2
+			qm_ImagePossitionY: 2
+			qm_ImageWidth: 25
+			qm_ImageHeight: 25
+			qm_SourceSizeWidth: 25
+			qm_SourceSizeHeight: 25
+		}
+	}
+	IGuiContainer
+	{
+		id: q369098759
+		objId: 369098759
 		x: 526
 		y: 235
 		width: 259
@@ -686,8 +686,8 @@ IGuiPage
 	}
 	IGuiContainer
 	{
-		id: q369098762
-		objId: 369098762
+		id: q369098760
+		objId: 369098760
 		x: 439
 		y: 368
 		width: 136
@@ -804,8 +804,8 @@ IGuiPage
 	}
 	IGuiContainer
 	{
-		id: q369098763
-		objId: 369098763
+		id: q369098761
+		objId: 369098761
 		x: 295
 		y: 368
 		width: 136
@@ -922,8 +922,8 @@ IGuiPage
 	}
 	IGuiContainer
 	{
-		id: q369098764
-		objId: 369098764
+		id: q369098762
+		objId: 369098762
 		x: 152
 		y: 368
 		width: 136

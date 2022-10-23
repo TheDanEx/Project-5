@@ -12,8 +12,8 @@ IGuiPage
 	{
 		id: q671088671
 		objId: 671088671
-		x: 530
-		y: 119
+		x: 537
+		y: 137
 		width: 96
 		height: 127
 		qm_BorderWidth: 2
@@ -28,8 +28,8 @@ IGuiPage
 	{
 		id: q671088672
 		objId: 671088672
-		x: 629
-		y: 120
+		x: 681
+		y: 163
 		width: 111
 		height: 134
 		qm_BorderWidth: 2
@@ -44,8 +44,8 @@ IGuiPage
 	{
 		id: q268435504
 		objId: 268435504
-		x: 531
-		y: 124
+		x: 538
+		y: 142
 		width: 42
 		height: 20
 		qm_Transparent : true 
@@ -61,8 +61,8 @@ IGuiPage
 	{
 		id: q268435505
 		objId: 268435505
-		x: 531
-		y: 222
+		x: 538
+		y: 240
 		width: 42
 		height: 20
 		qm_Transparent : true 
@@ -78,8 +78,8 @@ IGuiPage
 	{
 		id: q268435506
 		objId: 268435506
-		x: 531
-		y: 173
+		x: 538
+		y: 191
 		width: 42
 		height: 20
 		qm_Transparent : true 
@@ -95,8 +95,8 @@ IGuiPage
 	{
 		id: q268435507
 		objId: 268435507
-		x: 531
-		y: 148
+		x: 538
+		y: 166
 		width: 42
 		height: 20
 		qm_Transparent : true 
@@ -112,8 +112,8 @@ IGuiPage
 	{
 		id: q268435508
 		objId: 268435508
-		x: 531
-		y: 197
+		x: 538
+		y: 215
 		width: 42
 		height: 20
 		qm_Transparent : true 
@@ -129,8 +129,8 @@ IGuiPage
 	{
 		id: q335544364
 		objId: 335544364
-		x: 576
-		y: 124
+		x: 583
+		y: 142
 		width: 42
 		height: 19
 		qm_BorderCornerRadius: 3
@@ -152,8 +152,8 @@ IGuiPage
 	{
 		id: q335544365
 		objId: 335544365
-		x: 576
-		y: 148
+		x: 583
+		y: 166
 		width: 42
 		height: 19
 		qm_BorderCornerRadius: 3
@@ -175,8 +175,8 @@ IGuiPage
 	{
 		id: q335544366
 		objId: 335544366
-		x: 576
-		y: 222
+		x: 583
+		y: 240
 		width: 42
 		height: 19
 		qm_BorderCornerRadius: 3
@@ -198,8 +198,8 @@ IGuiPage
 	{
 		id: q335544367
 		objId: 335544367
-		x: 576
-		y: 173
+		x: 583
+		y: 191
 		width: 42
 		height: 19
 		qm_BorderCornerRadius: 3
@@ -221,8 +221,8 @@ IGuiPage
 	{
 		id: q335544368
 		objId: 335544368
-		x: 576
-		y: 197
+		x: 583
+		y: 215
 		width: 42
 		height: 19
 		qm_BorderCornerRadius: 3
@@ -560,8 +560,8 @@ IGuiPage
 	{
 		id: q33554443
 		objId: 33554443
-		x: 675
-		y: 124
+		x: 727
+		y: 167
 		width: 60
 		height: 19
 		qm_BorderCornerRadius: 3
@@ -583,8 +583,8 @@ IGuiPage
 	{
 		id: q268435513
 		objId: 268435513
-		x: 638
-		y: 124
+		x: 690
+		y: 167
 		width: 36
 		height: 20
 		qm_Transparent : true 
@@ -599,8 +599,8 @@ IGuiPage
 	{
 		id: q268435514
 		objId: 268435514
-		x: 638
-		y: 145
+		x: 690
+		y: 188
 		width: 36
 		height: 20
 		qm_Transparent : true 
@@ -615,8 +615,8 @@ IGuiPage
 	{
 		id: q33554444
 		objId: 33554444
-		x: 675
-		y: 145
+		x: 727
+		y: 188
 		width: 60
 		height: 19
 		qm_BorderCornerRadius: 3
@@ -638,8 +638,8 @@ IGuiPage
 	{
 		id: q268435515
 		objId: 268435515
-		x: 638
-		y: 166
+		x: 690
+		y: 209
 		width: 36
 		height: 20
 		qm_Transparent : true 
@@ -654,8 +654,8 @@ IGuiPage
 	{
 		id: q33554445
 		objId: 33554445
-		x: 675
-		y: 166
+		x: 727
+		y: 209
 		width: 60
 		height: 19
 		qm_BorderCornerRadius: 3
@@ -677,8 +677,8 @@ IGuiPage
 	{
 		id: q268435516
 		objId: 268435516
-		x: 638
-		y: 187
+		x: 690
+		y: 230
 		width: 50
 		height: 20
 		qm_Transparent : true 
@@ -693,8 +693,8 @@ IGuiPage
 	{
 		id: q33554446
 		objId: 33554446
-		x: 691
-		y: 187
+		x: 743
+		y: 230
 		width: 44
 		height: 19
 		qm_BorderCornerRadius: 3
@@ -717,8 +717,8 @@ IGuiPage
 	{
 		id: q268435517
 		objId: 268435517
-		x: 638
-		y: 208
+		x: 690
+		y: 251
 		width: 53
 		height: 20
 		qm_Transparent : true 
@@ -733,8 +733,8 @@ IGuiPage
 	{
 		id: q33554447
 		objId: 33554447
-		x: 705
-		y: 208
+		x: 757
+		y: 251
 		width: 30
 		height: 19
 		qm_BorderCornerRadius: 3
@@ -757,8 +757,8 @@ IGuiPage
 	{
 		id: q486539346
 		objId: 486539346
-		x: 635
-		y: 229
+		x: 687
+		y: 272
 		width: 99
 		height: 19
 		qm_BorderCornerRadius: 3
@@ -797,8 +797,8 @@ IGuiPage
 	{
 		id: q352321537
 		objId: 352321537
-		x: 542
-		y: 253
+		x: 549
+		y: 271
 		width: 75
 		height: 23
 		qm_BorderCornerRadius: 3

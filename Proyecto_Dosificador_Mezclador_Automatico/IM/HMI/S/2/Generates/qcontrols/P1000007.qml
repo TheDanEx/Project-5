@@ -10,16 +10,16 @@ IGuiPage
 	height: 480
 	IGuiContainer
 	{
-		id: q369098757
-		objId: 369098757
+		id: q369098755
+		objId: 369098755
 		x: 5
 		y: 374
 		width: 593
 		height: 100
 		IGuiRectangle
 		{
-			id: q671088663
-			objId: 671088663
+			id: q671088661
+			objId: 671088661
 			x: 0
 			y: 0
 			width: 593
@@ -34,16 +34,16 @@ IGuiPage
 		}
 		IGuiContainer
 		{
-			id: q369098755
-			objId: 369098755
+			id: q369098753
+			objId: 369098753
 			x: 15
 			y: 26
 			width: 287
 			height: 49
 			IGuiRectangle
 			{
-				id: q671088664
-				objId: 671088664
+				id: q671088662
+				objId: 671088662
 				x: 195
 				y: 0
 				width: 92
@@ -58,8 +58,8 @@ IGuiPage
 			}
 			IGuiRectangle
 			{
-				id: q671088665
-				objId: 671088665
+				id: q671088663
+				objId: 671088663
 				x: 97
 				y: 0
 				width: 92
@@ -74,8 +74,8 @@ IGuiPage
 			}
 			IGuiRectangle
 			{
-				id: q671088666
-				objId: 671088666
+				id: q671088664
+				objId: 671088664
 				x: 0
 				y: 0
 				width: 92
@@ -90,15 +90,15 @@ IGuiPage
 			}
 			IGuiButton
 			{
-				id: q486539335
-				objId: 486539335
+				id: q486539329
+				objId: 486539329
 				x: 198
 				y: 3
 				width: 86
 				height: 43
 				qm_BorderCornerRadius: 6
 				qm_BorderWidth: 2
-				qm_ImageSource: "image://QSmartImageProvider/728#2#4#128#0#0"
+				qm_ImageSource: "image://QSmartImageProvider/722#2#4#128#0#0"
 				qm_Border.top: 15
 				qm_Border.bottom: 15
 				qm_Border.right: 8
@@ -116,15 +116,15 @@ IGuiPage
 			}
 			IGuiButton
 			{
-				id: q486539333
-				objId: 486539333
+				id: q486539327
+				objId: 486539327
 				x: 3
 				y: 3
 				width: 86
 				height: 43
 				qm_BorderCornerRadius: 6
 				qm_BorderWidth: 2
-				qm_ImageSource: "image://QSmartImageProvider/727#2#4#128#0#0"
+				qm_ImageSource: "image://QSmartImageProvider/721#2#4#128#0#0"
 				qm_Border.top: 15
 				qm_Border.bottom: 15
 				qm_Border.right: 8
@@ -142,15 +142,15 @@ IGuiPage
 			}
 			IGuiButton
 			{
-				id: q486539334
-				objId: 486539334
+				id: q486539328
+				objId: 486539328
 				x: 100
 				y: 3
 				width: 86
 				height: 43
 				qm_BorderCornerRadius: 6
 				qm_BorderWidth: 2
-				qm_ImageSource: "image://QSmartImageProvider/728#2#4#128#0#0"
+				qm_ImageSource: "image://QSmartImageProvider/722#2#4#128#0#0"
 				qm_Border.top: 15
 				qm_Border.bottom: 15
 				qm_Border.right: 8
@@ -169,16 +169,16 @@ IGuiPage
 		}
 		IGuiContainer
 		{
-			id: q369098756
-			objId: 369098756
+			id: q369098754
+			objId: 369098754
 			x: 319
 			y: 8
 			width: 262
 			height: 89
 			IGuiGraphicIOField
 			{
-				id: q335544369
-				objId: 335544369
+				id: q335544363
+				objId: 335544363
 				x: 99
 				y: 25
 				width: 64
@@ -194,8 +194,8 @@ IGuiPage
 			}
 			IGuiTextField
 			{
-				id: q268435511
-				objId: 268435511
+				id: q268435503
+				objId: 268435503
 				x: 141
 				y: 0
 				width: 121
@@ -214,8 +214,8 @@ IGuiPage
 			}
 			IGuiTextField
 			{
-				id: q268435510
-				objId: 268435510
+				id: q268435502
+				objId: 268435502
 				x: 0
 				y: 0
 				width: 114
@@ -234,15 +234,15 @@ IGuiPage
 			}
 			IGuiGraphicButton
 			{
-				id: q486539336
-				objId: 486539336
+				id: q486539330
+				objId: 486539330
 				x: 95
 				y: 26
 				width: 73
 				height: 61
 				qm_BorderCornerRadius: 3
 				qm_BorderWidth: 2
-				qm_ImageSource: "image://QSmartImageProvider/692#2#4#128#0#0"
+				qm_ImageSource: "image://QSmartImageProvider/688#2#4#128#0#0"
 				qm_Border.top: 0
 				qm_Border.bottom: 0
 				qm_Border.right: 0
@@ -261,8 +261,8 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539340
-		objId: 486539340
+		id: q486539333
+		objId: 486539333
 		x: 702
 		y: 438
 		width: 89
@@ -301,15 +301,15 @@ IGuiPage
 	}
 	IGuiGraphicButton
 	{
-		id: q486539341
-		objId: 486539341
+		id: q486539334
+		objId: 486539334
 		x: 702
 		y: 438
 		width: 89
 		height: 36
 		qm_BorderCornerRadius: 3
 		qm_BorderWidth: 1
-		qm_ImageSource: "image://QSmartImageProvider/725#2#4#128#0#0"
+		qm_ImageSource: "image://QSmartImageProvider/719#2#4#128#0#0"
 		qm_Border.top: 0
 		qm_Border.bottom: 0
 		qm_Border.right: 0

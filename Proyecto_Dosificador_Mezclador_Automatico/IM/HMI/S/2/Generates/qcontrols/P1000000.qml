@@ -208,15 +208,15 @@ IGuiPage
 	}
 	IGuiGraphicButton
 	{
-		id: q486539310
-		objId: 486539310
+		id: q486539306
+		objId: 486539306
 		x: 739
 		y: 418
 		width: 53
 		height: 53
 		qm_BorderCornerRadius: 3
 		qm_BorderWidth: 2
-		qm_ImageSource: "image://QSmartImageProvider/73#2#4#128#0#0"
+		qm_ImageSource: "image://QSmartImageProvider/69#2#4#128#0#0"
 		qm_Border.top: 15
 		qm_Border.bottom: 15
 		qm_Border.right: 5
@@ -233,8 +233,8 @@ IGuiPage
 	}
 	IGuiGraphicTextButton
 	{
-		id: q486539315
-		objId: 486539315
+		id: q486539311
+		objId: 486539311
 		x: 11
 		y: 397
 		width: 159
@@ -266,15 +266,15 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539338
-		objId: 486539338
+		id: q486539332
+		objId: 486539332
 		x: 404
 		y: 399
 		width: 137
 		height: 32
 		qm_BorderCornerRadius: 3
 		qm_BorderWidth: 2
-		qm_ImageSource: "image://QSmartImageProvider/64#2#4#128#0#0"
+		qm_ImageSource: "image://QSmartImageProvider/60#2#4#128#0#0"
 		qm_Border.top: 15
 		qm_Border.bottom: 15
 		qm_Border.right: 5

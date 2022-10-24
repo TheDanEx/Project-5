@@ -164,8 +164,8 @@ IGuiPage
 	}
 	IGuiGraphicView
 	{
-		id: q301989921
-		objId: 301989921
+		id: q301989893
+		objId: 301989893
 		x: 751
 		y: 442
 		width: 36
@@ -186,7 +186,7 @@ IGuiPage
 		height: 36
 		qm_BorderCornerRadius: 3
 		qm_BorderWidth: 1
-		qm_ImageSource: "image://QSmartImageProvider/719#2#4#128#0#0"
+		qm_ImageSource: "image://QSmartImageProvider/684#2#4#128#0#0"
 		qm_Border.top: 0
 		qm_Border.bottom: 0
 		qm_Border.right: 0

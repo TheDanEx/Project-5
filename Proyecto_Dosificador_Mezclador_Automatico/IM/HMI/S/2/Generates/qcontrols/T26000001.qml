@@ -313,7 +313,7 @@ IGuiTemplate
 	{
 		id: q268435534
 		objId: 268435534
-		x: 339
+		x: 330
 		y: 341
 		width: 171
 		height: 23
@@ -330,7 +330,7 @@ IGuiTemplate
 		id: q268435535
 		objId: 268435535
 		x: 323
-		y: 82
+		y: 93
 		width: 83
 		height: 23
 		qm_Transparent : true 

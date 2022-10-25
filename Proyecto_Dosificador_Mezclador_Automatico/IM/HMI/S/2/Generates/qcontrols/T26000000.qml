@@ -59,8 +59,8 @@ IGuiTemplate
 	}
 	IGuiSymbolicIoOutput
 	{
-		id: q335544353
-		objId: 335544353
+		id: q335544352
+		objId: 335544352
 		x: 9
 		y: 4
 		width: 256
@@ -212,8 +212,8 @@ IGuiTemplate
 	}
 	IGuiTextField
 	{
-		id: q268435523
-		objId: 268435523
+		id: q268435522
+		objId: 268435522
 		x: 620
 		y: 53
 		width: 78
@@ -229,8 +229,8 @@ IGuiTemplate
 	}
 	IGuiGraphicIOFieldOutput
 	{
-		id: q335544354
-		objId: 335544354
+		id: q335544353
+		objId: 335544353
 		x: 644
 		y: 85
 		width: 30

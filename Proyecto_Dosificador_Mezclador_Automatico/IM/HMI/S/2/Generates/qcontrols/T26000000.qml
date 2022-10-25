@@ -9,18 +9,18 @@ IGuiTemplate
 	height: 480
 	IGuiRectangle
 	{
-		id: q671088679
-		objId: 671088679
-		x: 714
-		y: 50
-		width: 67
-		height: 67
+		id: q671088690
+		objId: 671088690
+		x: 712
+		y: 49
+		width: 71
+		height: 70
 		qm_BorderWidth: 2
 		qm_TextColor: "#ff181c31"
 		qm_FillColor: "#ffcecfce"
 		qm_BorderStyle: 0
-		qm_RectangleRadiusHorizontal: 20
-		qm_RectangleRadiusVertical: 20
+		qm_RectangleRadiusHorizontal: 10
+		qm_RectangleRadiusVertical: 10
 		qm_FillStyle: false
 	}
 	IGuiIOField
@@ -138,7 +138,7 @@ IGuiTemplate
 		height: 32
 		qm_BorderCornerRadius: 3
 		qm_BorderWidth: 3
-		qm_ImageSource: "image://QSmartImageProvider/677#2#4#128#0#0"
+		qm_ImageSource: "image://QSmartImageProvider/674#2#4#128#0#0"
 		qm_Border.top: 5
 		qm_Border.bottom: 5
 		qm_Border.right: 5
@@ -194,7 +194,7 @@ IGuiTemplate
 		height: 45
 		qm_BorderCornerRadius: 6
 		qm_BorderWidth: 2
-		qm_ImageSource: "image://QSmartImageProvider/685#2#4#128#0#0"
+		qm_ImageSource: "image://QSmartImageProvider/682#2#4#128#0#0"
 		qm_Border.top: 15
 		qm_Border.bottom: 15
 		qm_Border.right: 8
@@ -212,8 +212,8 @@ IGuiTemplate
 	}
 	IGuiTextField
 	{
-		id: q268435526
-		objId: 268435526
+		id: q268435523
+		objId: 268435523
 		x: 620
 		y: 53
 		width: 78

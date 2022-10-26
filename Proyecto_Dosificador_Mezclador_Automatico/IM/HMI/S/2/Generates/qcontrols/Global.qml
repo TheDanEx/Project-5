@@ -12,7 +12,7 @@ Item
 		width: 37
 		height: 53
 		qm_BorderWidth: 1
-		qm_ImageSource: "image://QSmartImageProvider/57#2#4#128#0#0"
+		qm_ImageSource: "image://QSmartImageProvider/733#2#4#128#0#0"
 		qm_Border.top: 2
 		qm_Border.bottom: 2
 		qm_Border.right: 2
@@ -29,7 +29,7 @@ Item
 		qm_AlarmTextHeight: 14
 		qm_TextColor: "#ffffffff"
 		visible: false
-		qm_GraphicImageID : 55
+		qm_GraphicImageID : 731
 		Component.onCompleted:
 		{
 			proxy.initProxy(q419430400,419430400)
@@ -64,8 +64,8 @@ Item
 		modalityHeight: 100
 		IGuiGraphicButton
 		{
-			id: q486539301
-			objId: 486539301
+			id: q486539392
+			objId: 486539392
 			x: 597
 			y: 0
 			width: 34
@@ -84,7 +84,7 @@ Item
 			qm_SourceSizeHeight: 30
 			Component.onCompleted:
 			{
-				proxy.initProxy(q486539301,486539301)
+				proxy.initProxy(q486539392,486539392)
 			}
 		}
 		IGuiAlarmView
@@ -146,17 +146,17 @@ Item
 					qm_tableHeaderMarginTop: 1
 					qm_noOfColumns: 4
 					qm_tableHeaderHeight: 18
-					qm_leftImageID: 49
+					qm_leftImageID: 727
 					qm_leftTileTop: 10
 					qm_leftTileBottom: 10
 					qm_leftTileRight: 2
 					qm_leftTileLeft: 4
-					qm_middleImageID: 50
+					qm_middleImageID: 728
 					qm_middleTileTop: 10
 					qm_middleTileBottom: 10
 					qm_middleTileRight: 2
 					qm_middleTileLeft: 2
-					qm_rightImageID: 51
+					qm_rightImageID: 729
 					qm_rightTileTop: 10
 					qm_rightTileBottom: 10
 					qm_rightTileRight: 4
@@ -171,15 +171,15 @@ Item
 			}
 			IGuiGraphicButton
 			{
-				id: q486539302
-				objId: 486539302
+				id: q486539393
+				objId: 486539393
 				x: 571
 				y: 303
 				width: 56
 				height: 40
 				qm_BorderCornerRadius: 3
 				qm_BorderWidth: 1
-				qm_ImageSource: "image://QSmartImageProvider/52#2#4#128#0#0"
+				qm_ImageSource: "image://QSmartImageProvider/730#2#4#128#0#0"
 				qm_Border.top: 15
 				qm_Border.bottom: 15
 				qm_Border.right: 5
@@ -196,7 +196,7 @@ Item
 				qm_SourceSizeHeight: 36
 				Component.onCompleted:
 				{
-					proxy.initProxy(q486539302,486539302)
+					proxy.initProxy(q486539393,486539393)
 				}
 			}
 			Component.onCompleted:

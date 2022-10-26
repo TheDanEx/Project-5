@@ -9,8 +9,8 @@ IGuiTemplate
 	height: 480
 	IGuiRectangle
 	{
-		id: q671088690
-		objId: 671088690
+		id: q671088649
+		objId: 671088649
 		x: 712
 		y: 49
 		width: 71
@@ -25,8 +25,8 @@ IGuiTemplate
 	}
 	IGuiIOField
 	{
-		id: q33554453
-		objId: 33554453
+		id: q33554437
+		objId: 33554437
 		x: 695
 		y: 25
 		width: 105
@@ -42,8 +42,8 @@ IGuiTemplate
 	}
 	IGuiIOField
 	{
-		id: q33554454
-		objId: 33554454
+		id: q33554438
+		objId: 33554438
 		x: 695
 		y: 0
 		width: 105
@@ -59,8 +59,8 @@ IGuiTemplate
 	}
 	IGuiSymbolicIoOutput
 	{
-		id: q335544352
-		objId: 335544352
+		id: q335544321
+		objId: 335544321
 		x: 9
 		y: 4
 		width: 256
@@ -78,15 +78,15 @@ IGuiTemplate
 	}
 	IGuiButton
 	{
-		id: q486539379
-		objId: 486539379
+		id: q486539290
+		objId: 486539290
 		x: 493
 		y: 5
 		width: 96
 		height: 32
 		qm_BorderCornerRadius: 3
 		qm_BorderWidth: 2
-		qm_ImageSource: "image://QSmartImageProvider/65#2#4#128#0#0"
+		qm_ImageSource: "image://QSmartImageProvider/21#2#4#128#0#0"
 		qm_Border.top: 15
 		qm_Border.bottom: 15
 		qm_Border.right: 5
@@ -104,15 +104,15 @@ IGuiTemplate
 	}
 	IGuiButton
 	{
-		id: q486539380
-		objId: 486539380
+		id: q486539291
+		objId: 486539291
 		x: 596
 		y: 5
 		width: 96
 		height: 32
 		qm_BorderCornerRadius: 3
 		qm_BorderWidth: 2
-		qm_ImageSource: "image://QSmartImageProvider/63#2#4#128#0#0"
+		qm_ImageSource: "image://QSmartImageProvider/22#2#4#128#0#0"
 		qm_Border.top: 15
 		qm_Border.bottom: 15
 		qm_Border.right: 5
@@ -130,15 +130,15 @@ IGuiTemplate
 	}
 	IGuiIOField
 	{
-		id: q33554455
-		objId: 33554455
+		id: q33554439
+		objId: 33554439
 		x: 273
 		y: 5
 		width: 215
 		height: 32
 		qm_BorderCornerRadius: 3
 		qm_BorderWidth: 3
-		qm_ImageSource: "image://QSmartImageProvider/675#2#4#128#0#0"
+		qm_ImageSource: "image://QSmartImageProvider/23#2#4#128#0#0"
 		qm_Border.top: 5
 		qm_Border.bottom: 5
 		qm_Border.right: 5
@@ -154,8 +154,8 @@ IGuiTemplate
 	}
 	IGuiRectangle
 	{
-		id: q671088675
-		objId: 671088675
+		id: q671088650
+		objId: 671088650
 		x: 529
 		y: 50
 		width: 176
@@ -170,8 +170,8 @@ IGuiTemplate
 	}
 	IGuiRectangle
 	{
-		id: q671088676
-		objId: 671088676
+		id: q671088651
+		objId: 671088651
 		x: 537
 		y: 57
 		width: 78
@@ -186,15 +186,15 @@ IGuiTemplate
 	}
 	IGuiButton
 	{
-		id: q486539381
-		objId: 486539381
+		id: q486539292
+		objId: 486539292
 		x: 541
 		y: 61
 		width: 70
 		height: 45
 		qm_BorderCornerRadius: 6
 		qm_BorderWidth: 2
-		qm_ImageSource: "image://QSmartImageProvider/683#2#4#128#0#0"
+		qm_ImageSource: "image://QSmartImageProvider/24#2#4#128#0#0"
 		qm_Border.top: 15
 		qm_Border.bottom: 15
 		qm_Border.right: 8
@@ -212,8 +212,8 @@ IGuiTemplate
 	}
 	IGuiTextField
 	{
-		id: q268435522
-		objId: 268435522
+		id: q268435465
+		objId: 268435465
 		x: 620
 		y: 53
 		width: 78
@@ -229,8 +229,8 @@ IGuiTemplate
 	}
 	IGuiGraphicIOFieldOutput
 	{
-		id: q335544353
-		objId: 335544353
+		id: q335544322
+		objId: 335544322
 		x: 644
 		y: 85
 		width: 30
@@ -243,8 +243,8 @@ IGuiTemplate
 	}
 	IGuiGraphicSwitch
 	{
-		id: q352321538
-		objId: 352321538
+		id: q352321536
+		objId: 352321536
 		x: 718
 		y: 55
 		width: 59

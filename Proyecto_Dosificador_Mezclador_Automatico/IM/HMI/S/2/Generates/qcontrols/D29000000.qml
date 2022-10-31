@@ -1,5 +1,4 @@
-﻿import QtQuick 2.7
-import "qrc:/"
+﻿import QtQuick 2.0
 IGuiDialogView
 {
 	id: q687865856
@@ -8,8 +7,18 @@ IGuiDialogView
 	y: 126
 	width: 480
 	height: 228
+	qm_FillRectWidth: 480
+	qm_FillRectHeight: 228
+	qm_FontSize: 11
+	qm_FontFamilyName: "Tahoma"
+	qm_BorderCornerRadius: 0
 	qm_BorderWidth: 1
-	qm_RectangleBorder.color:"#ff1c1f30"
+	qm_BorderColor: "#ff1c1f30"
+	qm_ImageID: 5
+	qm_TileTop: 2
+	qm_TileBottom: 2
+	qm_TileRight: 2
+	qm_TileLeft: 2
 	qm_FillColor: "#fff4f4f5"
 	z:245
 	captionrectX: 0
@@ -28,160 +37,233 @@ IGuiDialogView
 	IGuiModality{ }
 	IGuiTextField
 	{
-		id: q268435562
-		objId: 268435562
+		id: q268435552
+		objId: 268435552
 		x: 92
 		y: 103
 		width: 100
 		height: 22
-		qm_RectangleBorder.width:0
-		qm_RectangleBorder.color:"#fff5f5f5"
+		qm_FillRectWidth: 100
+		qm_FillRectHeight: 22
+		qm_FontFamilyName: "Tahoma"
+		qm_FontSize: 11
+		qm_BorderCornerRadius: 0
+		qm_BorderWidth: 0
+		qm_BorderColor: "#fff5f5f5"
+		qm_ImageID: 10
+		qm_TileTop: 0
+		qm_TileBottom: 0
+		qm_TileRight: 0
+		qm_TileLeft: 0
 		qm_FillColor: "#fff4f4f5"
 		qm_TextColor: "#ff3e414f"
 		qm_ValueVarTextAlignmentHorizontal: Text.AlignRight
 		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_Anchors.bottomMargin: 1
-		qm_Anchors.leftMargin: 1
-		qm_Anchors.rightMargin: 1
-		qm_Anchors.topMargin: 1
+		qm_ValueVarTextOrientation: 0
+		qm_MarginLeft: 1
+		qm_MarginRight: 1
+		qm_MarginBottom: 1
+		qm_MarginTop: 1
 	}
 	IGuiIOField
 	{
-		id: q33554493
-		objId: 33554493
+		id: q33554486
+		objId: 33554486
 		x: 200
 		y: 103
 		width: 264
 		height: 22
+		qm_FillRectWidth: 263
+		qm_FillRectHeight: 21
+		qm_FontSize: 11
+		qm_FontFamilyName: "Tahoma"
 		qm_BorderCornerRadius: 3
 		qm_BorderWidth: 1
-		qm_RectangleBorder.color:"#ffb7b8b8"
+		qm_BorderColor: "#ffb7b8b8"
+		qm_ImageID: 11
+		qm_TileTop: 5
+		qm_TileBottom: 5
+		qm_TileRight: 5
+		qm_TileLeft: 5
 		qm_FillColor: "#ffffffff"
 		qm_FocusWidth: 0
 		qm_FocusColor: "#00000000"
 		qm_TextColor: "#ff3e414f"
+		qm_ValueVarTextAlignmentHorizontal: Text.AlignLeft
 		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_Anchors.bottomMargin: 2
-		qm_Anchors.leftMargin: 9
-		qm_Anchors.rightMargin: 17
-		qm_Anchors.topMargin: 2
+		qm_ValueVarTextOrientation: 0
+		qm_MarginLeft: 8
+		qm_MarginRight: 16
+		qm_MarginBottom: 1
+		qm_MarginTop: 1
+		qm_passwordMode: false
+		qm_FontRendringTpe:1
 	}
 	IGuiTextField
 	{
-		id: q268435563
-		objId: 268435563
+		id: q268435553
+		objId: 268435553
 		x: 92
 		y: 137
 		width: 100
 		height: 22
-		qm_RectangleBorder.width:0
-		qm_RectangleBorder.color:"#fff5f5f5"
+		qm_FillRectWidth: 100
+		qm_FillRectHeight: 22
+		qm_FontFamilyName: "Tahoma"
+		qm_FontSize: 11
+		qm_BorderCornerRadius: 0
+		qm_BorderWidth: 0
+		qm_BorderColor: "#fff5f5f5"
+		qm_ImageID: 10
+		qm_TileTop: 0
+		qm_TileBottom: 0
+		qm_TileRight: 0
+		qm_TileLeft: 0
 		qm_FillColor: "#fff4f4f5"
 		qm_TextColor: "#ff3e414f"
 		qm_ValueVarTextAlignmentHorizontal: Text.AlignRight
 		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_Anchors.bottomMargin: 1
-		qm_Anchors.leftMargin: 1
-		qm_Anchors.rightMargin: 1
-		qm_Anchors.topMargin: 1
+		qm_ValueVarTextOrientation: 0
+		qm_MarginLeft: 1
+		qm_MarginRight: 1
+		qm_MarginBottom: 1
+		qm_MarginTop: 1
 	}
 	IGuiIOField
 	{
-		id: q33554494
-		objId: 33554494
+		id: q33554487
+		objId: 33554487
 		x: 200
 		y: 137
 		width: 264
 		height: 22
+		qm_FillRectWidth: 263
+		qm_FillRectHeight: 21
+		qm_FontSize: 11
+		qm_FontFamilyName: "Tahoma"
 		qm_BorderCornerRadius: 3
 		qm_BorderWidth: 1
-		qm_RectangleBorder.color:"#ffb7b8b8"
+		qm_BorderColor: "#ffb7b8b8"
+		qm_ImageID: 11
+		qm_TileTop: 5
+		qm_TileBottom: 5
+		qm_TileRight: 5
+		qm_TileLeft: 5
 		qm_FillColor: "#ffffffff"
 		qm_FocusWidth: 0
 		qm_FocusColor: "#00000000"
 		qm_TextColor: "#ff3e414f"
+		qm_ValueVarTextAlignmentHorizontal: Text.AlignLeft
 		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_Anchors.bottomMargin: 2
-		qm_Anchors.leftMargin: 9
-		qm_Anchors.rightMargin: 17
-		qm_Anchors.topMargin: 2
+		qm_ValueVarTextOrientation: 0
+		qm_MarginLeft: 8
+		qm_MarginRight: 16
+		qm_MarginBottom: 1
+		qm_MarginTop: 1
 		qm_passwordMode: true
+		qm_FontRendringTpe:1
 	}
 	IGuiButton
 	{
-		id: q486539394
-		objId: 486539394
+		id: q486539387
+		objId: 486539387
 		x: 383
-		y: 194
+		y: 195
 		width: 97
 		height: 34
+		qm_FillRectWidth: 97
+		qm_FillRectHeight: 34
+		qm_BorderCornerRadius: 0
 		qm_BorderWidth: 1
-		qm_ImageSource: "image://QSmartImageProvider/8#2#4#128#0#0"
-		qm_Border.top: 15
-		qm_Border.bottom: 15
-		qm_Border.right: 2
-		qm_Border.left: 2
+		qm_BorderColor: "#ff1c1f30"
+		qm_ImageID: 8
+		qm_TileTop: 15
+		qm_TileBottom: 15
+		qm_TileRight: 2
+		qm_TileLeft: 2
 		qm_FillColor: "#ff494c59"
 		qm_TextColor: "#ffffffff"
 		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
 		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_Anchors.bottomMargin: 2
-		qm_Anchors.leftMargin: 2
-		qm_Anchors.rightMargin: 2
-		qm_Anchors.topMargin: 2
+		qm_ValueVarTextOrientation: 0
+		qm_MarginLeft: 1
+		qm_MarginRight: 1
+		qm_MarginBottom: 1
+		qm_MarginTop: 1
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff55bfff"
+		qm_FontSize: 11
+		qm_FontFamilyName: "Tahoma"
 	}
 	IGuiButton
 	{
-		id: q486539395
-		objId: 486539395
+		id: q486539388
+		objId: 486539388
 		x: 287
-		y: 194
+		y: 195
 		width: 97
 		height: 34
+		qm_FillRectWidth: 97
+		qm_FillRectHeight: 34
+		qm_BorderCornerRadius: 0
 		qm_BorderWidth: 1
-		qm_ImageSource: "image://QSmartImageProvider/734#2#4#128#0#0"
-		qm_Border.top: 12
-		qm_Border.bottom: 12
-		qm_Border.right: 2
-		qm_Border.left: 2
+		qm_BorderColor: "#ff1c1f30"
+		qm_ImageID: 722
+		qm_TileTop: 12
+		qm_TileBottom: 12
+		qm_TileRight: 2
+		qm_TileLeft: 2
 		qm_FillColor: "#ff494c59"
 		qm_TextColor: "#ffffffff"
 		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
 		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_Anchors.bottomMargin: 2
-		qm_Anchors.leftMargin: 2
-		qm_Anchors.rightMargin: 2
-		qm_Anchors.topMargin: 2
+		qm_ValueVarTextOrientation: 0
+		qm_MarginLeft: 1
+		qm_MarginRight: 1
+		qm_MarginBottom: 1
+		qm_MarginTop: 1
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff55bfff"
+		qm_FontSize: 11
+		qm_FontFamilyName: "Tahoma"
 	}
 	IGuiGraphicButton
 	{
-		id: q486539396
-		objId: 486539396
+		id: q486539389
+		objId: 486539389
 		x: 446
 		y: 0
 		width: 34
 		height: 34
+		qm_FillRectWidth: 34
+		qm_FillRectHeight: 34
+		qm_BorderCornerRadius: 0
 		qm_BorderWidth: 1
-		qm_RectangleBorder.color:"#ff1c1f30"
+		qm_BorderColor: "#ff1c1f30"
+		qm_ImageID: 3
+		qm_TileTop: 2
+		qm_TileBottom: 2
+		qm_TileRight: 2
+		qm_TileLeft: 2
 		qm_FillColor: "#ff464b5a"
+		qm_TextColor: "#ffffffff"
+		qm_ValueVarTextAlignmentHorizontal: Image.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Image.AlignVCenter
+		qm_ValueVarTextOrientation: 0
+		qm_MarginLeft: 1
+		qm_MarginRight: 1
+		qm_MarginBottom: 1
+		qm_MarginTop: 1
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff55bfff"
-		qm_ImageFillMode:6
-		qm_ImagePossitionX: 2
-		qm_ImagePossitionY: 2
-		qm_ImageWidth: 30
-		qm_ImageHeight: 30
-		qm_SourceSizeWidth: 30
-		qm_SourceSizeHeight: 30
+		qm_Streached :false
+		qm_GraphicImageID :723
+		qm_ContentVisibility : false
 	}
 	IGuiQmlRectangle
 	{
-		id: q671088702
-		objId: 671088702
+		id: q671088693
+		objId: 671088693
 		x: 0
 		y: 194
 		width: 478
@@ -189,7 +271,5 @@ IGuiDialogView
 		qm_BorderWidth: 0
 		qm_TextColor: "#ff000000"
 		qm_FillColor: "#ff3e414f"
-		qm_RectangleWidth: 478
-		qm_RectangleHeight: 34
 	}
 }
